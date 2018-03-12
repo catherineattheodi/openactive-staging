@@ -45,7 +45,8 @@ wellbeing.
 
 
 Open opportunity data helps people decide whether an activity is (or isn’t) for them. It includes real-time information and integrated booking options, for classes, sessions and clubs, spare places in leagues, tennis courts and football pitches for hire. You can use opportunity data in many ways to
-inspire people to be more active, remove pain points and deliver better customer experiences.</p>
+inspire people to be more active, remove pain points and deliver better customer experiences.
+
 
 Developments in **data**, social media, VR and AI are having a huge impact on people’s lives, changing the way we travel and entertain ourselves. In the sport and physical activity sector information about activity opportunities are often siloed making it harder to innovate, until now.
 
