@@ -2,11 +2,17 @@
 title: OpenActive
 timezone: UTC
 collections:
-  booking_engines:
+  bookingsystems:
     title: Booking Systems
     output: true
   case_studies:
     title: Case Studies
+    output: true
+  champions:
+    title: Champions
+    output: true
+  customers:
+    title: Customers
     output: true
   dataproviders:
     title: Data Providers
@@ -17,6 +23,11 @@ collections:
   faqs:
     title: FAQs
     output: true
+    categories:
+    - About OpenActive
+    - Community
+    - How It Works
+    - About OpenActive Data
   members:
     title: Members
     output: true
@@ -48,7 +59,15 @@ defaults:
     layout: post
     is_featured: false
     thumbnail_image: ''
-    categories: About OpenActive
+    tags:
+    - Using data
+    - Publishing data
+    - Accelerator
+    - Collaboration
+    - Leadership
+    - Champions
+    - Standards
+    - Literacy and tools
 - scope:
     path: ''
     type: case_studies
@@ -56,23 +75,39 @@ defaults:
     layout: case-study
     is_featured: false
     thumbnail_image: "/uploads/placeholder.png"
-    member: 
-    strapline: 
+    member:
+    strapline:
+    quote:
 - scope:
     path: ''
     type: mentors
   values:
     layout: mentor
+    second-name: ''
     is_featured: false
     thumbnail_image: "/uploads/placeholder.png"
-    twitter: 
-    linkedin: 
-    role: 
+    twitter:
+    linkedin:
+    role:
+- scope:
+    path: ''
+    type: champions
+  values:
+    layout: champion
+    second-name: ''
+    thumbnail_image: "/uploads/placeholder.png"
+    twitter:
+    linkedin:
+    role:
+    company:
+    link:
 - scope:
     path: ''
     type: partners
   values:
     layout: partner
+    member:
+    case_study:
     is_featured: false
     thumbnail_image: "/uploads/placeholder.png"
 - scope:
@@ -89,15 +124,43 @@ defaults:
     layout: member
     is_featured: false
     thumbnail_image: "/uploads/placeholder.png"
+    bookingsystem:
     website: Web address
 - scope:
     path: ''
-    type: booking_engines
+    type: bookingsystems
   values:
-    layout: booking-engine
+    layout: bookingsystem
     is_featured: false
     is_enabled: false
     thumbnail_image: "/uploads/placeholder.png"
-    member: 
+    member:
     website: Web address
-permalink: pretty
+- scope:
+    path: ''
+    type: customers
+  values:
+    thumbnail_image: "/uploads/placeholder.png"
+    partner:
+compress_html:
+  blanklines: false
+  profile: false
+locale: en-US
+description: Helping physical activity reach everyone. OpenActive is community-led
+  initiative with an ambition to help people in England get active using open data.
+baseurl:
+url: http://staging.openactive.io
+repository: openactive/openactive-staging
+email: your-email@example.com
+github_username: imaginatecreative
+twitter_username: OAaccelerator
+youtube_username:
+facebook_username:
+instagram_username:
+pinterest_username:
+medium_username: https://blog.openactive.io
+markdown: kramdown
+plugins:
+- jekyll-feed
+staticman:
+  branch: master
