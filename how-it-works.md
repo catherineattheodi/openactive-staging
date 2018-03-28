@@ -245,7 +245,7 @@ Opportunity data covers many types of physical activities. From 1on1 classes, ma
 <div class="not-included-inner">
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/assets/images/icons/attendance.svg)
+![attendance]({{ site.baseurl }}/assets/images/icons/attendance.svg)
 ###### Partcipation and attendance data
 
 </div>
