@@ -1,6 +1,8 @@
 $(document).ready(function () {
     (function ($) {
-
+        $('.diagram img').each(function( i ){
+          $(this).delay(1000*i).fadeTo(1000,1);
+        });
 
         $(".extra-content").hide();
 

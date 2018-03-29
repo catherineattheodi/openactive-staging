@@ -51,7 +51,10 @@ Across a wide range of demographics, without any additional effort.
 <!-- ![what_open_data.png]({{ site.baseurl }}/assets/images/icons/eco-4.svg) -->
 
 
-![what_open_data.png]({{ site.baseurl }}/assets/images/first.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/first_1.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/first_2.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/first_3.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/first_4.svg)
 
 
 
