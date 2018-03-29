@@ -6,6 +6,8 @@ is_main_navigation: false
 layout: page-headless
 ---
 
+### Note on CNAME and _config.yml - we have set these as " git update-index --assume-unchanged " so that the beta and staging sites will keep their configurations whilst both using the staging master branch. To edit these you will need to change this to git update-index --no-assume-unchanged <file>
+
 ### The OpenActive Staging Website
 
 This website is a Jekyll powered site running on Github pages. It also has a Siteleaf integration to allow edits to the codebase without a text editor or knowledge of git itself.
