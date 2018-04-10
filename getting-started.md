@@ -165,7 +165,7 @@ If you don't own the data, either include some text in your T&Cs or add a tick b
 <div class="step-text">
 
 ##### 3. Make a dataset page so people can find your customers' data
-Create a 'dataset' page on your website, making your data available for anyone to access, use or share. This page is automatically indexed by Google and included in the OpenActive dataset directory.
+Create a 'dataset' page on your website, making your data available for anyone to access, use, or share. This page is automatically indexed by Google and included in the OpenActive dataset directory.
 
 [See Existing implimentations](http://status.openactive.io/){:target="_blank"}{:class="button-secondary" }
 [Instructions to create a dataset site](https://github.com/openactive/dataset-site-generator/wiki){:target="_blank"}{:class="button-secondary" }
@@ -184,7 +184,7 @@ Create a 'dataset' page on your website, making your data available for anyone t
 ##### 4. Your customers' activities are available everywhere
 From websites and apps that attract millions of users, through to communities and services that engage local people.
 
-Data users may from time to time provide feedback or suggestions on how you can improve the data your customers publish.
+Data users may, from time to time, provide feedback or suggestions on how you can improve the data your customers publish.
 We'll publicise your data to make sure that as many people use it as possible.
 
 [See Examples]({{ site.baseurl }}{% link our-vision.md %}/#what-kind-of-services-can-be-built-with-open-opportunity-data){: .button-secondary}
@@ -250,7 +250,7 @@ Browse our status dashboard and map to understand the kinds of data available, a
 ##### 2. Decide where you want to put the data
 From websites and apps that attract millions of users, through to communities and services that engage local people, there are lots of ways to use OpenActive data.
 
-If you already have a website that engages an audience or an app or a tool, it's useful to include the data the same place. You might want to build a whole new app, website or service, depending on whether you're a long-term business or a short-term campaign.
+If you already have a website that engages an audience, an app, or a tool, it's useful to include the data in the same place. You might want to build a whole new app, website, or service, depending on whether you're a long-term business or a short-term campaign.
 
 [See Examples]({{ site.baseurl }}{% link our-vision.md %}/#what-kind-of-services-can-be-built-with-open-opportunity-data){: .button-secondary}
 
@@ -368,7 +368,7 @@ If you think your organisation would benefit from open data, but the decision is
 <article class="call_to_action">
 <div class="subgrid">
 <div class="three">
-#### Convince Your Company
+#### Convince your company
 Discover downloadable documents to give to your company.
 
 [Convince Company]( {{ site.baseurl }}{% link convince-company.md %}){: .button-primary}
@@ -376,7 +376,7 @@ Discover downloadable documents to give to your company.
 </div>
 <div class="three">
 
-#### Tell Your Team
+#### Tell your team
 Find resources designed to explain open data to your colleagues.
 
 [Tell Team]( {{ site.baseurl }}{% link tell-team.md %}){: .button-primary}
