@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting started
 permalink: "/getting-started/"
 position: 3
 is_main_navigation: true
