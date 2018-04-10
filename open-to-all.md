@@ -1,5 +1,5 @@
 ---
-title: Open to All
+title: Open to all
 permalink: "/open-to-all/"
 strapline: Openness is integral to the OpenActive initiative.
 thumbnail_image: "/uploads/iStock-803099000optimised.png"
