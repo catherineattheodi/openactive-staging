@@ -38,7 +38,7 @@ From websites and apps that attract millions of users, to communities and servic
 
 Across a wide range of demographics, without any additional effort.
 
-[Get started\]({{ site.baseurl }}{% link getting-started.md %}){:.button-primary}
+[Get started]({{ site.baseurl }}{% link getting-started.md %}){:.button-primary}
 
 </div>
 <div class="inner">
@@ -78,7 +78,7 @@ This data can be made available for anyone to access, use, and share, helping co
 
 By encouraging organisations to publish their data openly and to a commonly agreed standard, we are not only facilitating open sharing across individual websites, but building a connected, online community that’s free to grow and innovate in response to its consumers’ needs.
 
-[Get a deeper understanding\]({{ site.baseurl }}{% link e-learning.md %}){:.button-primary}
+[Get a deeper understanding]({{ site.baseurl }}{% link e-learning.md %}){:.button-primary}
 
 </div>
 
@@ -171,70 +171,70 @@ Opportunity data covers many types of physical activities. From one-to-one class
 <div class="properties-inner">
 <div>
 
-!\[time\]({{ site.baseurl }}/assets/images/icons/time.svg)
+![time]({{ site.baseurl }}/assets/images/icons/time.svg)
 
 ###### Time
 
 </div>
 <div>
 
-!\[Price\]({{ site.baseurl }}/assets/images/icons/prices.svg)
+![Price]({{ site.baseurl }}/assets/images/icons/prices.svg)
 
 ###### Prices
 
 </div>
 <div>
 
-!\[Locations\]({{ site.baseurl }}/assets/images/icons/locations.svg)
+![Locations]({{ site.baseurl }}/assets/images/icons/locations.svg)
 
 ###### Locations
 
 </div>
 <div>
 
-!\[Availability\]({{ site.baseurl }}/assets/images/icons/availability.svg)
+![Availability]({{ site.baseurl }}/assets/images/icons/availability.svg)
 
 ###### Availability
 
 </div>
 <div>
 
-!\[descriptions\]({{ site.baseurl }}/assets/images/icons/descriptions.svg)
+![descriptions]({{ site.baseurl }}/assets/images/icons/descriptions.svg)
 
 ###### Descriptions
 
 </div>
 <div>
 
-!\[images\]({{ site.baseurl }}/assets/images/icons/images.svg)
+![images]({{ site.baseurl }}/assets/images/icons/images.svg)
 
 ###### Images
 
 </div>
 <div>
 
-!\[gender\]({{ site.baseurl }}/assets/images/icons/gender.svg)
+![gender]({{ site.baseurl }}/assets/images/icons/gender.svg)
 
 ###### Gender restriction
 
 </div>
 <div>
 
-!\[age\]({{ site.baseurl }}/assets/images/icons/age.svg)
+![age]({{ site.baseurl }}/assets/images/icons/age.svg)
 
 ###### Age range
 
 </div>
 <div>
 
-!\[difficulty\]({{ site.baseurl }}/assets/images/icons/difficulty.svg)
+![difficulty]({{ site.baseurl }}/assets/images/icons/difficulty.svg)
 
 ###### Difficulty level
 
 </div>
 <div>
 
-!\[difficulty\]({{ site.baseurl }}/assets/images/icons/accessibility.svg)
+![difficulty]({{ site.baseurl }}/assets/images/icons/accessibility.svg)
 
 ###### Accessibility
 
@@ -254,21 +254,21 @@ Opportunity data covers many types of physical activities. From one-to-one class
 <div class="not-included-inner">
 <div>
 
-!\[attendance\]({{ site.baseurl }}/assets/images/icons/attendance.svg)
+![attendance]({{ site.baseurl }}/assets/images/icons/attendance.svg)
 
 ###### Participation and attendance data
 
 </div>
 <div>
 
-!\[what_open_data.png\]({{ site.baseurl }}/assets/images/icons/sensitive.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/icons/sensitive.svg)
 
 ###### Commercially sensitive data
 
 </div>
 <div>
 
-!\[what_open_data.png\]({{ site.baseurl }}/assets/images/icons/customer.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/icons/customer.svg)
 
 ###### Customer data
 
@@ -288,18 +288,18 @@ Opportunity data covers many types of physical activities. From one-to-one class
 
 <!-- #### Sport and physical activity providers -->
 
-<!-- \* With open data publishing, your services and events can be shared everywhere, from high-traffic apps to community-driven pages. -->
-<!-- \* Improve data skills and understanding within your organisation and harness technology to benefit your business. -->
-<!-- \* Drive innovation, and collaborate with OpenActive to revolutionise the sector. -->
+<!-- * With open data publishing, your services and events can be shared everywhere, from high-traffic apps to community-driven pages. -->
+<!-- * Improve data skills and understanding within your organisation and harness technology to benefit your business. -->
+<!-- * Drive innovation, and collaborate with OpenActive to revolutionise the sector. -->
 
 <!-- </div> -->
 <!-- <div class="three"> -->
 
 <!-- #### Data users and developers -->
 
-<!-- \* Harness open and accessible data from across the sport and physical sector. -->
-<!-- \* Use data to help develop new products and enhance existing services to get people more active. -->
-<!-- \* Be at the cutting edge of shaping consistent data standards and growing engagement with data publishers. -->
+<!-- * Harness open and accessible data from across the sport and physical sector. -->
+<!-- * Use data to help develop new products and enhance existing services to get people more active. -->
+<!-- * Be at the cutting edge of shaping consistent data standards and growing engagement with data publishers. -->
 
 <!-- </div> -->
 
@@ -307,10 +307,10 @@ Opportunity data covers many types of physical activities. From one-to-one class
 
 <!-- #### Influential organisations -->
 
-<!-- \* Build engagement in sport and physical activities by improving the reach and visibility of services nationwide. -->
-<!-- \* Support new OpenActive members by showing them how publishing open data can help them improve and grow their activities. -->
-<!-- \* Improve data skills and understanding within your organisation and harness technology to benefit your business. -->
-<!-- \* Provide members with the opportunity to join our community and shape the initiative. -->
+<!-- * Build engagement in sport and physical activities by improving the reach and visibility of services nationwide. -->
+<!-- * Support new OpenActive members by showing them how publishing open data can help them improve and grow their activities. -->
+<!-- * Improve data skills and understanding within your organisation and harness technology to benefit your business. -->
+<!-- * Provide members with the opportunity to join our community and shape the initiative. -->
 
 <!-- </div> -->
 <!-- </div> -->
@@ -339,7 +339,7 @@ Opportunity data covers many types of physical activities. From one-to-one class
 
 {{ item.strapline | markdownify }}
 
-\[Get started\]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
+[Get started]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
 
 </div>
 <figure>
