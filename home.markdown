@@ -77,8 +77,7 @@ From leisure operators to national governing bodies, local sports clubs to event
 
 * ![icons]({{ site.baseurl }}/assets/images/icons/availability.svg)  When is a court available?
 
-* ![icons]({{ site.baseurl }}/assets/images/icons/locations.svg)  Where is the class?
-  {:.icons}
+* ![icons]({{ site.baseurl }}/assets/images/icons/locations.svg)  Where is the class?{:.icons}
 
 ##### **But not data like:**
 
@@ -87,10 +86,11 @@ From leisure operators to national governing bodies, local sports clubs to event
 * ![icons]({{ site.baseurl }}/assets/images/icons/sensitive.svg)  Commercially sensitive data
 
 * ![icons]({{ site.baseurl }}/assets/images/icons/customer.svg)  Customer data
-  {:.icons}
-  </div>
-  <i class="line-graphic">{% include line-graphic-side.svg %}</i>
-  </article>
+{:.icons}
+
+</div>
+<i class="line-graphic">{% include line-graphic-side.svg %}</i>
+</article>
 
 <!--  ---------------->
 <!-- OPEN DATA ILLUSTRATION -->
