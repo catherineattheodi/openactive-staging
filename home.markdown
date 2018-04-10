@@ -8,7 +8,6 @@ layout: home
 
 {::options parse_block_html="true" /}
 
-
 <!--  ---------------->
 <!-- HERO BLOCK -->
 <!--  ---------------->
@@ -24,23 +23,20 @@ layout: home
 
 # Helping physical activity reach everyone
 
- - Improve our nation’s physical health
- - Attract people to join activities
- - Innovate to help people get active
+We are supporting innovation to help people get active.
 
-[Our Mission]( {{ site.baseurl }}{% link our-mission.md %}){: .button-primary--alt}
-
+[Our Vision]( {{ site.baseurl }}{% link our-vision.md %}){: .button-primary--alt}
+<button id="play-button" class="button-primary--alt">Watch Video</button>
 </div>
 <figure id="introduction-vid"  role="group" aria-labelledby="open-active-video">
-<div class="mask">{% include overlay.svg %}</div>
-<iframe id="video" title="OpenActive intro video" width="560" height="315"  src="https://www.youtube.com/embed/kfVCRaMJarE?&modestbranding=1&showinfo=0&rel=0&enablejsapi=1" allowfullscreen></iframe>
+
+<div class="mask"></div>
+<iframe id="video" title="OpenActive intro video" width="560" height="315"  src="https://www.youtube.com/embed/chizr_7kRfk?showinfo=0&rel=0&enablejsapi=1" allowfullscreen ></iframe>
 
 <figcaption id="open-active-video" class="hidden" >{{ post.title | escape }}</figcaption>
 </figure>
 
 </article>
-
-
 
 <!--  ---------------->
 <!-- CASE STUDIES -->
@@ -50,43 +46,53 @@ layout: home
 {% include case-study.html %}
 </article>
 
-
-
-
-
+<!--  ---------------->
+<!-- BOOKING SYSTEMS -->
+<!--  ---------------->
+{% include booking-systems.html %}
 
 <!--  ---------------->
 <!-- WHAT WE DO -->
 <!--  ---------------->
-<article class="invert title-row what-we-do">
+<article class="title-row what-we-do">
 <h2 class="sub-heading-two">What we do</h2>
 <div class="two twoleft">
 
-#### Our goal is to make data on what, where, and when physical activity sessions happen, openly available.
+### Our goal is to make data on what, where and when physical activity sessions happen openly available.
 
-We are bringing together sports and physical activity organisations from across the sector to open up their opportunity data.
+Stewarded by the Open Data Institute (ODI), we're a growing community of sport and physical activity organisations and individuals. We're working collaboratively as a sector to open up data about physical activity opportunities.
 
-The organisations range from leisure operators to National Governing Bodies, local sports clubs to event providers, and walking groups to fitness instructors. We are also helping other organisations to use this opportunity data to build interesting tools and experiences for consumers.
+From leisure operators to national governing bodies, local sports clubs to event providers, walking groups to fitness instructors, the ODI is helping organisations use opportunity data to build interesting products, tools and experiences for consumers.
 
-[FIND OUT MORE]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Involved]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
+[How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
 
 </div>
 <div class="two twoleft">
 
-##### Opportunity data
-**Includes details such as:**
-* How much will it cost?
-* When is a court available?
-* Where is the class?
+#### OpenActive open opportunity data
 
-**But not personal data like:**
-* Name / Address
-* Age / Sex
-* Weight / Height
+##### **Includes details such as:**
+
+* ![icons]({{ site.baseurl }}/assets/images/icons/prices.svg) How much will it cost? 
+
+* ![icons]({{ site.baseurl }}/assets/images/icons/availability.svg)  When is a court available?
+
+* ![icons]({{ site.baseurl }}/assets/images/icons/locations.svg)  Where is the class? 
+{:.icons}
+
+##### **But not data like:**
+
+* ![icons]({{ site.baseurl }}/assets/images/icons/attendance.svg)  Participation and attendance data
+
+* ![icons]({{ site.baseurl }}/assets/images/icons/sensitive.svg)  Commercially sensitive data
+
+* ![icons]({{ site.baseurl }}/assets/images/icons/customer.svg)  Customer data
+{:.icons}
+
 
 </div>
+<i class="line-graphic">{% include line-graphic-side.svg %}</i>
 </article>
-
 
 <!--  ---------------->
 <!-- OPEN DATA ILLUSTRATION -->
@@ -97,27 +103,50 @@ The organisations range from leisure operators to National Governing Bodies, loc
 
 <h3>What is Open Data?</h3>
 <p class="reset-style">
-Open data is data that anyone can access, use, or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens, and medical researchers to develop resources which make crucial improvements to their communities.</p>
-</div>
-<div class="one">
-
-![what_open_data.png]({{ site.baseurl }}/uploads/what_open_data.png)
-
+Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and researchers to develop useful resources, which make crucial improvements to their communities and markets.</p>
 </div>
 </article>
 
+<!--  ---------------->
+<!-- Community -->
+<!--  ---------------->
+<article class="title-row">
+<h2 class="sub-heading-two">Who are we?</h2>
+<div class="one">
 
+## The OpenActive Community
+
+Our open-invitation community is dynamic and self-supporting, and we welcome you to join us.
+
+</div>
+</article>
+<article>
+<div class="one freegrid-six">
+{% assign posts = site.members | sample:18 %}
+{% for post in posts %}
+{% assign theImage = post.thumbnail_image %}
+<div class="mobile-hide-content" data-tab="{{ forloop.index }}" markdown="0" >
+<a  href="{{ post.url | relative_url }}"><img role="logo" src="{{ theImage  | relative_url}}"/></a>
+</div>
+{% endfor %}
+</div>
+<div class="one buttons">
+<a class="button-primary" href="{% link community.md %}">View all</a>
+<a class="button-primary--ghost mobile-show">View More</a>
+</div>
+</article>
 
 <!--  ---------------->
 <!-- CALL TO ACTION BLOCKS -->
 <!--  ---------------->
+<!--
 <article class="call_to_action">
 <div class="subgrid">
 <div class="three">
 
 #### Getting Started
 
-Take the first step towards enabling open data in your system.
+Take the first step and switch on open data publishing in your booking system.
 
 [Getting Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary}
 
@@ -142,31 +171,31 @@ What's happening in the community, and how you can get involved!
 </div>
 </div>
 </article>
+-->
 
 <!--  ---------------->
 <!-- ACCELERATOR BLOCKS -->
 <!--  ---------------->
-<article class="call_to_action--full-width global">
+<article class="call_to_action--full-width">
 <h2 class="sub-heading-two">Start Ups</h2>
 <div class="one">
 
-### The Accelerator Programme
+{% assign subpage = site.pages | where: 'title', 'Accelerator' %}
+{% for item in subpage %}
 
-Millions find it hard to stay active. OpenActive Accelerator calls for startups to make activity easier, with digital innovation using open data.
+## {{ item.title}}
 
-[Find out more]( {{ site.baseurl }}{% link accelerator.md %}){: .button-primary}
+{{ item.strapline | markdownify }}
+
+[Find out more]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
 
 </div>
 <figure>
-<div class="mask">{% include overlay.svg %}</div>
-<div class="image" style="background: url({{ site.baseurl }}/uploads/accel_cta.png)center center / cover no-repeat;"></div>
+<div class="mask"></div>
+<div class="image" style="background: url({{ site.baseurl }}{{ item.thumbnail_image }})center center / cover no-repeat;"></div>
 </figure>
+{% endfor %}
 </article>
-
-
-
-
-
 
 <!--  ---------------->
 <!-- NEWS BLOCK -->
@@ -181,11 +210,11 @@ Millions find it hard to stay active. OpenActive Accelerator calls for startups 
 <img src="{{post.thumbnail_image | relative_url}}" alt="{{ post.title | escape }}-post-thumbnail">
 </a>
 </figure>
-<h3>{{ post.title | escape }}</h3>
+<h4>{{ post.title | escape }}</h4>
 <div class="subgrid brand-one-b">
 <div class="two twoleft">
 {{ post.excerpt }}
-<a class="button-primary" href="{{ post.url | relative_url }}">Read Post</a>
+<a class="link" href="{{ post.url | relative_url }}">Read Post</a>
 </div>
 <div class="two twoleft">
 <div markdown="0" class="share-page">
@@ -195,7 +224,9 @@ Millions find it hard to stay active. OpenActive Accelerator calls for startups 
 
 </div>
 {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-{{post.date | date: date_format}}
+{{ post.date | date: date_format}}
+{: .meta}
+
 {{post.author}}
 </div>
 </div>
