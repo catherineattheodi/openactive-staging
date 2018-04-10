@@ -9,7 +9,7 @@ strapline: Discover how we can achieve our vision in practice.
 layout: page-headless
 ---
 
-{::options parse_block_html="true"/}
+{::options parse_block_html="true" /}
 
 <!--  ---------------->
 <!-- HERO BLOCK -->
