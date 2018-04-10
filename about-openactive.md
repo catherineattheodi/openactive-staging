@@ -83,8 +83,8 @@ By joining the open data revolution, you and your organisation can benefit from 
 
 #### Openness is integral to the OpenActive initiative
 
-Assets we produce (standards, training, tools) and the data published by others are be openly licensed, meaning that they will be free for anyone to access, use or share.
-The community is also open for anyone to join. This is important to us as we think it is the best way to create a robust data infrastructure, but also to ensure that people embed this change and make it sustainable.
+Assets we produce (standards, training, tools) and the data we publish are openly licensed, making them free for anyone to access, use or share.
+The community is open for anyone to join as we believe it's the best way to create a robust data infrastructure while ensuring people embrace this change in a sustainable way.
 
 </div>
 </article>
