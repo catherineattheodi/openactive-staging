@@ -38,7 +38,7 @@ From websites and apps that attract millions of users, to communities and servic
 
 Across a wide range of demographics, without any additional effort.
 
-\[Get started\]({{ site.baseurl }}{% link getting-started.md %}){:.button-primary}
+[Get started\]({{ site.baseurl }}{% link getting-started.md %}){:.button-primary}
 
 </div>
 <div class="inner">
