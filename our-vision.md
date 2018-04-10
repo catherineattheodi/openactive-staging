@@ -1,5 +1,5 @@
 ---
-title: Our Vision
+title: Our vision
 permalink: "/our-vision/"
 position: 1
 is_main_navigation: true
