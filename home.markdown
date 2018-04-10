@@ -6,14 +6,6 @@ is_main_navigation: false
 layout: home
 ---
 
----
-title: Home
-permalink: "/"
-position: 0
-is_main_navigation: false
-layout: home
----
-
 {::options parse_block_html="true" /}
 
 <!--  ---------------->
