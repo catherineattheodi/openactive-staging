@@ -9,7 +9,7 @@ strapline: Discover how we can achieve our vision in practice.
 layout: page-headless
 ---
 
-{::options parse_block_html="true" /}
+{::options parse_block_html="true"}
 
 <!--  ---------------->
 <!-- HERO BLOCK -->
@@ -78,7 +78,7 @@ This data can be made available for anyone to access, use, and share, helping co
 
 By encouraging organisations to publish their data openly and to a commonly agreed standard, we are not only facilitating open sharing across individual websites, but building a connected, online community that’s free to grow and innovate in response to its consumers’ needs.
 
-\[Get a deeper understanding\]({{ site.baseurl }}{% link e-learning.md %}){:.button-primary}
+[Get a deeper understanding\]({{ site.baseurl }}{% link e-learning.md %}){:.button-primary}
 
 </div>
 
@@ -102,56 +102,56 @@ Opportunity data covers many types of physical activities. From one-to-one class
 <div class="types-inner">
 <div>
 
-!\[events\]({{ site.baseurl }}/assets/images/icons/events.svg)
+![events]({{ site.baseurl }}/assets/images/icons/events.svg)
 
 ###### Events
 
 </div>
 <div>
 
-!\[sessions\]({{ site.baseurl }}/assets/images/icons/sessions.svg)
+![sessions]({{ site.baseurl }}/assets/images/icons/sessions.svg)
 
 ###### Sessions
 
 </div>
 <div>
 
-!\[facilities\]({{ site.baseurl }}/assets/images/icons/facilities.svg)
+![facilities]({{ site.baseurl }}/assets/images/icons/facilities.svg)
 
 ###### Facilities
 
 </div>
 <div>
 
-!\[leagues\]({{ site.baseurl }}/assets/images/icons/leagues.svg)
+![leagues]({{ site.baseurl }}/assets/images/icons/leagues.svg)
 
 ###### Leagues and Ringers
 
 </div>
 <div>
 
-!\[courses\]({{ site.baseurl }}/assets/images/icons/courses.svg)
+![courses]({{ site.baseurl }}/assets/images/icons/courses.svg)
 
 ###### Courses
 
 </div>
 <div>
 
-!\[online classes\]({{ site.baseurl }}/assets/images/icons/online-classes.svg)
+![online classes]({{ site.baseurl }}/assets/images/icons/online-classes.svg)
 
 ###### Online Classes
 
 </div>
 <div>
 
-!\[routes\]({{ site.baseurl }}/assets/images/icons/routes.svg)
+![routes]({{ site.baseurl }}/assets/images/icons/routes.svg)
 
 ###### Routes
 
 </div>
 <div>
 
-!\[Personal Trainer\]({{ site.baseurl }}/assets/images/icons/trainer.svg)
+![Personal Trainer]({{ site.baseurl }}/assets/images/icons/trainer.svg)
 
 ###### Personal Trainers
 
