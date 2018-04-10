@@ -157,7 +157,7 @@ Apps that emphasise the social rewards of physical activity or help someone find
 <h2 class="sub-heading-two">Where now?</h2>
 <div class="one">
 
-{% assign subpage = site.pages | where: 'title', 'Accelerator' %}
+{% assign subpage = site.pages | where: 'title', 'How it works' %}
 {% for item in subpage %}
 
 ### {{ item.title}}
