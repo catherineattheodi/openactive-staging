@@ -28,7 +28,7 @@ Use any listing system or booking system. If you don’t use one yet, it’s qui
 
 ##### 2. Tick the box to open your data
 
-If your system is OpenActive-enabled, tick the box. Otherwise ask your system to add the tick box.
+If your system is OpenActive-enabled, tick the box. Otherwise, ask your system to add the tick box.
 
 ##### 3. Your activities are available everywhere
 
@@ -95,7 +95,7 @@ By encouraging organisations to publish their data openly and to a commonly agre
 
 ## Opportunity data types
 
-Opportunity data covers many types of physical activities. From one-to-one classes, mass participation events to gym classes and yoga sessions. Below are just some examples of the types of data we are opening.
+Opportunity data covers many types of physical activities. From one-to-one classes, mass participation events, to gym classes and yoga sessions. Below are just some examples of the types of data we are opening.
 
 </div>
 
