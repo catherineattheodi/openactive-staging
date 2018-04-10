@@ -5,8 +5,7 @@ position: 2
 is_main_navigation: true
 is_secondary_navigation: false
 thumbnail_image: "/uploads/iStock-803099000optimised.png"
-strapline: Discover how we can achieve our vision in practice and the progress we’ve
-  made so far.
+strapline: Discover how we can achieve our vision in practice.
 layout: page-headless
 ---
 
