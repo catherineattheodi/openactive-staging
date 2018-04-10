@@ -45,15 +45,11 @@ Across a wide range of demographics, without any additional effort.
 
 <div class="diagram">
 
-<!-- !\[what_open_data.png\]({{ site.baseurl }}/assets/images/icons/eco-1.svg) -->
-<!-- !\[what_open_data.png\]({{ site.baseurl }}/assets/images/icons/eco-2.svg) -->
-<!-- !\[what_open_data.png\]({{ site.baseurl }}/assets/images/icons/eco-3.svg) -->
-<!-- !\[what_open_data.png\]({{ site.baseurl }}/assets/images/icons/eco-4.svg) -->
 
-!\[what_open_data.png\]({{ site.baseurl }}/assets/images/first_1.svg)
-!\[what_open_data.png\]({{ site.baseurl }}/assets/images/first_2.svg)
-!\[what_open_data.png\]({{ site.baseurl }}/assets/images/first_3.svg)
-!\[what_open_data.png\]({{ site.baseurl }}/assets/images/first_4.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/first_1.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/first_2.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/first_3.svg)
+![what_open_data.png]({{ site.baseurl }}/assets/images/first_4.svg)
 
 </div>
 <!-- <div class="diagram-caption"> -->
