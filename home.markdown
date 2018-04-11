@@ -10,7 +10,7 @@ layout: home
 
 <!--  ---------------->
 <!-- HERO BLOCK -->
-<!--  ---------------->
+<!--   ---------------->
 <article class="hero--home">
 
 <!-- <nav class="hero_tab_nav"> -->
