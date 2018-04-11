@@ -13,40 +13,65 @@ Here you can access and download OpenActive's brand assets and useful resources 
 
 If anything is missing,  get in touch and we'll add it to our toolkit development plans.
 
-\###OpenActive 2-paged explainer
+### OpenActive explainer
+
 This document introduces the OpenActive initiative and how others can get involved
-[Access document](https://docs.google.com/document/d/17JIjjrd-lOXVlgCxmEHIcDsekBTwdufXWIDjzI4G4sE/edit?usp=sharing)
+[Access document](https://docs.google.com/document/d/1RmEJajN6lVB0LE8fRK18feEtYv0zpIyhO5jY_uZEJiw/edit?usp=sharing)
 
-\###Brand book
-Get a full breakdown of the OpenActive brand guidelines and how to apply to brand in practice
-Access document
+### Brand guidelines
 
-\###Brand assets
-Download OpenActive logos, banners and images
-Access document
+Get a full breakdown of the OpenActive brand guidelines and how to apply the brand in practice
+[Access document](https://drive.google.com/open?id=1_COAOuPL9rU8VLsi6b3sZN_h14awfuRC)
 
-\###Presentation slides
+### Brand assets
+
+Download OpenActive logos, fonts, images, icons and graphics
+[Access document](https://drive.google.com/open?id=1Woby9QTNWh6Db6cZ0iWkskkfAVrKmn4Z)
+
+### Presentation slides
+
 Use presentation slide templates for OpenActive engagements
-Access document
+[Access document](https://docs.google.com/presentation/d/1gOD69w1cWFZQHDhc34eeEhUtyDhYsdKrB785mbab8E0/edit?usp=sharing)
 
-\###Examples of potential uses of open opportunity data
+### Examples of potential uses of open opportunity data
+
 Take a look at the use cases for open opportunity data and the benefits for people and communities
-Access document
+[Access document](https://drive.google.com/open?id=1BMb14UdshrX5EU4JQFj5nF2X9s8O-KPFRSz5a6sWBag)
 
-\###Key messaging
+### Key messaging
+
 Find out how to describe the OpenActive initiative
-Access document
+[Read our FAQs](http://openactive.io/faqs.html)
 
-\###OpenActive FAQs
+### OpenActive FAQs
+
 Take a look at the most frequently asked questions and how to answer them
 
-\###Supporting material for OpenActive Champions
-This document includes materials for the OpenActive Champions to use to support their engagement activities
-Access folder
+[Read our FAQs](http://openactive.io/faqs.html)
 
-\###OpenActive developer documentation
-Access documentation
+### Supporting material for OpenActive Champions
+
+This document includes materials for the OpenActive Champions to support their engagement activities
+Access material
+
+### OpenActive developer documentation
+
+[Access documentation pages](https://beta.openactive.io/developer/)
+
+### OpenActive open data map
+
+Take a look at all activity data available across the country
+
+[View map](https://philiphorgan.carto.com/builder/6ac0f185-8322-4b95-ae66-b55768390fa9/embed)
+
+### OpenActive dashboard
+
+View our OpenActive dashboard that visualises the initiative's progress
+
+[View dashboard](https://share.geckoboard.com/dashboards/DTZRCARKEXHZGUVC)
 
 This toolkit is updated monthly. Noticed something isn't quite right? Let us know and we'll sort it.
+
+### 
 
 </article>
