@@ -5,7 +5,6 @@ is_secondary_navigation: true
 layout: page-hero
 ---
 
-{::options parse_block_html="true" /}
 <article>
 <div class="one">
 Welcome to the OpenActive community toolkit
@@ -50,7 +49,7 @@ Take a look at the most frequently asked questions and how to answer them
 
 [Read our FAQs](http://openactive.io/faqs.html)
 
-### Supporting material for OpenActive Champions
+### Resources for OpenActive Champions
 
 This document includes materials for the OpenActive Champions to support their engagement activities
 [Access material](https://drive.google.com/drive/folders/16ogmDey_6Dib6zvRot1J1hdTMjJ0XvZ9)
@@ -71,7 +70,7 @@ View our OpenActive dashboard that visualises the initiative's progress
 
 [View dashboard](https://share.geckoboard.com/dashboards/DTZRCARKEXHZGUVC)
 
-This toolkit is updated monthly. Noticed something isn't quite right? Let us know and we'll sort it.
+This toolkit is updated monthly. Noticed something isn't quite right? [Let us know](Maito:hello@openactive.io) and we'll sort it.
 
 ### 
 
