@@ -5,6 +5,7 @@ is_secondary_navigation: true
 layout: page-hero
 ---
 
+{::options parse_block_html="true" /}
 <article>
 <div class="one">
 Welcome to the OpenActive community toolkit
