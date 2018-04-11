@@ -52,7 +52,7 @@ Take a look at the most frequently asked questions and how to answer them
 ### Supporting material for OpenActive Champions
 
 This document includes materials for the OpenActive Champions to support their engagement activities
-Access material
+[Access material](https://drive.google.com/drive/folders/16ogmDey_6Dib6zvRot1J1hdTMjJ0XvZ9)
 
 ### OpenActive developer documentation
 
