@@ -1,5 +1,5 @@
 ---
-title: PRIVACY AND COOKIE POLICY
+title: Privacy and cookie policy
 date: 2018-04-16 11:38:00 Z
 layout: page-hero
 ---
