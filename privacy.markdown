@@ -11,6 +11,7 @@ date: 2018-04-16 11:38:00 Z
 <!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
 <!--  ---------------->
 
+This is the page about cookies. 
 
 </div>
 </article>
