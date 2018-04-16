@@ -30,7 +30,7 @@ HOW WE USE THIS INFORMATION
 
 * We will not give your personal data to third parties, unless you have given us permission, or we are required to do so by law.
 
-* We will inform you before collecting your data if we intend to use it for marketing purposes. At any time you can ask us not to process your personal data for such purposes by contacting us at datacontroller@theodi.org. Alternatively you can simply unsubscribe from the OpenActive mailing list to opt-out of our broadcast communications.
+* We will inform you before collecting your data if we intend to use it for marketing purposes. At any time you can ask us not to process your personal data for such purposes by contacting us at datacontroller@theodi.org. Alternatively you can simply [unsubscribe](http://openactive.us13.list-manage2.com/unsubscribe?u=9e6648557f84731796a4ac873&id=1665f95799) from the OpenActive mailing list to opt-out of our broadcast communications.
 
 * You can access your data under The Data Protection Act 1998 for a small administration fee.
 
