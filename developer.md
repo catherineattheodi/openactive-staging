@@ -19,7 +19,7 @@ layout: page-hero
 
 ### The open data being gathered by OpenActive and associated partners will transform the sport and physical sector
 
-We’ve made it easy for developers to understand and engage with our data standards and the Opportunity Data Dashboard, to ensure relevant organisations nationwide can join us in transforming the way people find, access, and tke part in new activities.
+We’ve made it easy for developers to understand and engage with our data standards and the Opportunity Data Dashboard, to ensure relevant organisations nationwide can join us in transforming the way people find, access, and take part in new activities.
 
 Because no single platform or app holds all the data available under OpenActive, we’ve designed the first set of OpenActive standards to support developers in harvesting and collecting data from multiple sources.
 
@@ -141,7 +141,7 @@ Explore the dashboard to find the data you need, identify which feeds conform to
 ### The open data map
 The map displays all activity data available in England.
 
-Explore the map to find the data you need, identify which areas are embracing open data and which are yet to.
+Explore the map to find the data you need, identify which areas are embracing open data, and which are yet to.
 
 
 [View data map](https://philiphorgan.carto.com/builder/6ac0f185-8322-4b95-ae66-b55768390fa9/embed){:target="_blank"}{:.button-primary}

@@ -10,7 +10,7 @@ layout: home
 
 <!--  ---------------->
 <!-- HERO BLOCK -->
-<!--  ---------------->
+<!--   ---------------->
 <article class="hero--home">
 
 <!-- <nav class="hero_tab_nav"> -->
@@ -73,7 +73,8 @@ From leisure operators to national governing bodies, local sports clubs to event
 
 ##### **Includes details such as:**
 
-* ![icons]({{ site.baseurl }}/assets/images/icons/prices.svg) How much will it cost? 
+
+* ![icons]({{ site.baseurl }}/assets/images/icons/prices.svg) How much will it cost?
 
 * ![icons]({{ site.baseurl }}/assets/images/icons/availability.svg)  When is a court available?
 
@@ -88,6 +89,7 @@ From leisure operators to national governing bodies, local sports clubs to event
 
 * ![icons]({{ site.baseurl }}/assets/images/icons/customer.svg)  Customer data
 {:.icons}
+
 
 
 </div>
