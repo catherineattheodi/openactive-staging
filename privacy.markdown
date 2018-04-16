@@ -12,11 +12,11 @@ layout: page-hero
 <!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
 <!--  ---------------->
 
-# PRIVACY AND COOKIE POLICY
+### PRIVACY AND COOKIE POLICY
 
 **At times we may collect and process your personal information; this, along with many of the tools we use, is standard among many sites. We do respect, and aim to protect, your privacy.**
 
-### WHAT WE COLLECT
+WHAT WE COLLECT
 
 * We collect personal data that you send us by email and/or when you fill in online forms.
 
@@ -24,7 +24,7 @@ layout: page-hero
 
 * Our website uses cookies to tell you apart from other users when we look at how people use the site.
 
-### HOW WE USE THIS INFORMATION
+  HOW WE USE THIS INFORMATION
 
 * We will only use your personal data to contact you in response to a request by you or to provide information that we think you may want.
 
@@ -36,7 +36,7 @@ layout: page-hero
 
 * The data we collect from you may be stored and processed outside the European Economic Area.
 
-### OTHER CAVEATS
+OTHER CAVEATS
 
 * If you follow a link from our site to another you are no longer covered by our privacy policy.
 
@@ -44,7 +44,7 @@ layout: page-hero
 
 * This website uses FullStory, a service that allows us to collect information from you concerning your use of this website and only this website, including but not limited to pages visited, links clicked, non-sensitive text entered, and mouse movements. FullStory is used to help us enhance and improve the user experience on this website and to perform any other function that we reasonably believe in good faith is required to protect and ensure the proper functionality and security of this website.
 
-### CONTACTS
+  CONTACTS
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be sent to datacontroller@theodi.org.
 
