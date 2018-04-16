@@ -6,11 +6,13 @@ layout: page-hero
 
 {::options parse_block_html="true" /}
 <article class="title-row">
-<h2 class="sub-heading-two">PRIVACY AND COOKIE POLICY</h2>
+<h2 class="sub-heading-two"></h2>
 <div class="one">
 <!--  ---------------->
 <!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
 <!--  ---------------->
+
+PRIVACY AND COOKIE POLICY
 
 **At times we may collect and process your personal information; this, along with many of the tools we use, is standard among many sites. We do respect, and aim to protect, your privacy.**
 
