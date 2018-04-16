@@ -46,7 +46,7 @@ OTHER CAVEATS
 
   CONTACTS
 
-  Questions, comments and requests regarding this privacy policy are welcomed and should be sent to [datacontroller@theodi.org](mailto:datacontroller@theodi.org).
+Questions, comments and requests regarding this privacy policy are welcomed and should be sent to datacontroller@theodi.org. 
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Open Data Institute of 65 Clifton Street, London, EC2A 4JE. Our nominated representative for the purpose of the Act is Jeni Tennison.
 
