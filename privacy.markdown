@@ -2,7 +2,7 @@
 title: Privacy and cookie policy
 date: 2018-04-16 11:38:00 Z
 is_main_navigation: false
-is_secondary_navigation: true
+is_secondary_navigation: false
 layout: page-hero
 ---
 
