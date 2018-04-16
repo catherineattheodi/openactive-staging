@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: PRIVACY AND COOKIE POLICY
 date: 2018-04-16 11:38:00 Z
 layout: page-hero
 ---
@@ -11,8 +11,6 @@ layout: page-hero
 <!--  ---------------->
 <!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
 <!--  ---------------->
-
-### PRIVACY AND COOKIE POLICY
 
 **At times we may collect and process your personal information; this, along with many of the tools we use, is standard among many sites. We do respect, and aim to protect, your privacy.**
 
