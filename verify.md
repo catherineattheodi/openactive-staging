@@ -1,4 +1,5 @@
 ---
+title: E-mail verification sent
 permalink: "/verify/"
 position: 101
 is_main_navigation: false
