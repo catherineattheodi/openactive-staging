@@ -1,5 +1,5 @@
 ---
-title: 'OpenActive Membership: My Private Profile'
+title: OpenActive Profile
 permalink: "/profile/"
 position: 100
 is_main_navigation: false
