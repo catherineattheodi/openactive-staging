@@ -14,7 +14,7 @@ layout: page-headless
 <article class="hero--video">
 <div class="two">
 
-# We want to make it as easy to find and book a badminton court as it is to book a hotel room
+# We want to make it as easy to find and book a badminton court as it is to book a hotel room.
 
 We're building a future where the opportunities sport and physical activity providers offer are no longer stuck in a single website, and can be listed in a wide range of apps and services.
 
