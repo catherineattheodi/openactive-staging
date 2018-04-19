@@ -1,5 +1,5 @@
 ---
-title: Home
+title: OpenActive - Using data to help people get active
 permalink: "/"
 position: 0
 is_main_navigation: false
