@@ -324,63 +324,6 @@ LinkedIn
 <!-- MENTORS BLOCK -->
 <!--  ---------------->
 
-<!--  ---------------->
-<!-- STARTUPS BLOCK -->
-<!--  ---------------->
-<article class="title-row people" markdown="0">
-<h2 class="sub-heading-two">Startups</h2>
-<div class="one">
-{% assign sortedPosts = site.startups | sort: 'title' %}
-{% for post in sortedPosts %}
-{% assign theImage = post.thumbnail_image %}
-
-<div class="inline-block-six mobile-hide-content">
-
-<figure>
-<img src="{{ theImage  | relative_url}}" alt="{{ post.title | escape }} Icon"/>
-<figcaption>
-<p><strong>{{ post.title | escape }}</strong></p>
-<p>{{ post.second-name | escape }} </p>
-<p>{{ post.role | escape }} </p>
-</figcaption>
-<div class="social-links">
-{% if post.twitter %}
-
-<a target="_blank" rel="noopener" href="{{ post.twitter }}">
-<span class="icon icon--twitter">
-{% include twitter.svg %}
-</span>
-<span class="hidden" aria-hidden="true">
-Twitter
-</span>
-</a>
-{% endif %}
-{% if post.linkedin %}
-<a href="{{ post.linkedin }}" target="_blank">
-<span class="icon icon--twitter">
-{% include linkedin.svg %}
-</span>
-<span class="hidden" aria-hidden="true">
-LinkedIn
-</span>
-</a>
-{% endif %}
-</div>
-</figure>
-
-</div>
-
-{% endfor %}
-</div>
-<div class="one buttons">
-<a class="button-primary--ghost mobile-show">View More</a>
-</div>
-</article>
-
-<!--  ---------------->
-<!-- STARTUP BLOCK -->
-<!--  ---------------->
-
 <article class="title-row steps collapse-bottom-with-pad invert-2" id="selection">
 <h2 class="sub-heading-two">How we select startups</h2>
 <div class="one non-grid">
