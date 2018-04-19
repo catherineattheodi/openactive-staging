@@ -1,6 +1,7 @@
 ---
 title: Privacy and cookie policy
 date: 2018-04-16 11:38:00 Z
+permalink: "/privacy-and-cookie-policy"
 is_main_navigation: false
 is_secondary_navigation: true
 layout: page-hero
