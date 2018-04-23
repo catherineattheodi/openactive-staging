@@ -161,4 +161,3 @@ medium_username: https://blog.openactive.io
 markdown: kramdown
 plugins:
 - jekyll-feed
-
