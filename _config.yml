@@ -49,6 +49,7 @@ defaults:
     layout: default
     is_main_navigation: false
     is_secondary_navigation: false
+    position: 1
 - scope:
     path: ''
     type: posts
