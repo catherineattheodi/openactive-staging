@@ -5,6 +5,14 @@ is_secondary_navigation: true
 layout: page-hero
 ---
 
+{::options parse_block_html="true" /}
+<article class="title-row">
+<h2 class="sub-heading-two"></h2>
+<div class="one">
+<!--  ---------------->
+<!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
+<!--  ---------------->
+
 # Welcome to the OpenActive community toolkit
 
 Here you can access and download OpenActive's brand assets and useful resources to help you share information about OpenActive within your own organisation and community.
@@ -69,3 +77,6 @@ View our OpenActive dashboard that visualises the initiative's progress
 [View dashboard](https://share.geckoboard.com/dashboards/DTZRCARKEXHZGUVC)
 
 This toolkit is updated monthly. Noticed something isn't quite right? [Let us know](Maito:hello@openactive.io) and we'll sort it.
+
+</div>
+</article>
