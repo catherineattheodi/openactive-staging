@@ -13,7 +13,7 @@ layout: page-hero
 <!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
 <!--  ---------------->
 
-# Welcome to the OpenActive community toolkit
+## Welcome to the OpenActive community toolkit
 
 Here you can access and download OpenActive's brand assets and useful resources to help you share information about OpenActive within your own organisation and community.
 
