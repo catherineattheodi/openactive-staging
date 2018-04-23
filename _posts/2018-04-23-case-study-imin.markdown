@@ -3,7 +3,7 @@ title: 'Case study: imin —the progressive role of a data aggregator in physica
 date: 2018-04-23 12:13:00 Z
 categories:
 - news
-is_featured: true
+is_featured: false
 ---
 
 # Data aggregation to drive a more active nation
