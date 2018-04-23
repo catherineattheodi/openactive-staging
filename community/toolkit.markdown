@@ -69,7 +69,3 @@ View our OpenActive dashboard that visualises the initiative's progress
 [View dashboard](https://share.geckoboard.com/dashboards/DTZRCARKEXHZGUVC)
 
 This toolkit is updated monthly. Noticed something isn't quite right? [Let us know](Maito:hello@openactive.io) and we'll sort it.
-
-### 
-
-</article>
