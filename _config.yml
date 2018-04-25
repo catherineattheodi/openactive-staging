@@ -146,7 +146,6 @@ defaults:
     type: startups
   values:
     layout: startup
-    second-name: ''
     thumbnail_image: "/uploads/placeholder.png"
     twitter:
     linkedin:

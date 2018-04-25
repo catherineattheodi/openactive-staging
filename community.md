@@ -156,24 +156,6 @@ The OpenActive Champions are ten advocates embracing and influencing local trans
 
 {% include champions.html %}
 
-<!--  ---------------->
-<!-- START-UPS -->
-<!--  ---------------->
-<article>
-<div class="one">
-
-## OpenActive Startups
-
-The OpenActive Startups Amet assumenda est ab asperiores incidunt unde. Officia tempore rem eaque. Rerum tenetur aliquid ut eos deserunt suscipit.
-
-</div>
-</article>
-
-<!--  ---------------->
-<!-- START-UPS  -->
-<!--  ---------------->
-
-{% include startup.html %}
 
 <!--  ---------------->
 <!-- FAQS -->
