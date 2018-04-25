@@ -1,5 +1,5 @@
 ---
-title: Startup Three
+title: Startup three
 date: 2018-04-25 09:58:00 Z
 twitter: Twitter
 linkedin: Linkedin
