@@ -140,18 +140,18 @@ defaults:
     type: customers
   values:
     thumbnail_image: "/uploads/placeholder.png"
-    partner:
+    partner: 
 - scope:
     path: ''
     type: startups
   values:
     layout: startup
     thumbnail_image: "/uploads/placeholder.png"
-    twitter:
-    linkedin:
-    role:
-    company:
-    link:
+    twitter: 
+    linkedin: 
+    role: 
+    company: 
+    link: 
 compress_html:
   blanklines: false
   profile: false
