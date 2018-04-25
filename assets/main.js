@@ -1,5 +1,12 @@
 $(document).ready(function () {
     (function ($) {
+
+
+
+        $(".demo").ycp({
+            apikey : 'AIzaSyB_zuXrp0TyGsod6g2PtzT5jlIO0j6z1X8'
+        });
+
         $('.diagram img').each(function( i ){
           $(this).delay(1000*i).fadeTo(1000,1);
         });
