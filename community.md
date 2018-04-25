@@ -164,7 +164,7 @@ The OpenActive Champions are ten advocates embracing and influencing local trans
 
 ## OpenActive Startups
 
-The OpenActive Accelerator programme launches on 1 May!
+The OpenActive Accelerator launches on 1 May! Check back then to find out more about the startups on the programme.
 
 </div>
 </article>
