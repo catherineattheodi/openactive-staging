@@ -164,7 +164,7 @@ The OpenActive Champions are ten advocates embracing and influencing local trans
 
 ## OpenActive Startups
 
-The OpenActive Startups Amet assumenda est ab asperiores incidunt unde. Officia tempore rem eaque. Rerum tenetur aliquid ut eos deserunt suscipit.
+The OpenActive Accelerator programme launches on 1 May.
 
 </div>
 </article>
