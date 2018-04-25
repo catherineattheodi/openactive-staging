@@ -23,7 +23,7 @@ OpenActive’s collaborative community includes ambitious start-ups supported th
 Explore the dashboard to learn more about our community and the datasets already published.
 
 [Status Dashboard](http://status.openactive.io/){:target="_blank"}{: .primary_cta}
-[Community toolkit](https://openactive.io/community/toolkit/){:target="_blank"}{: .primary_cta}
+[Community toolkit]( {{ site.baseurl }}{% link community/toolkit.markdown %}){:target="_blank"}{: .primary_cta}
 
 </div>
 </article>
@@ -155,6 +155,25 @@ The OpenActive Champions are ten advocates embracing and influencing local trans
 <!--  ---------------->
 
 {% include champions.html %}
+
+<!--  ---------------->
+<!-- START-UPS -->
+<!--  ---------------->
+<article>
+<div class="one">
+
+## OpenActive Startups
+
+The OpenActive Startups Amet assumenda est ab asperiores incidunt unde. Officia tempore rem eaque. Rerum tenetur aliquid ut eos deserunt suscipit.
+
+</div>
+</article>
+
+<!--  ---------------->
+<!-- START-UPS  -->
+<!--  ---------------->
+
+{% include startup.html %}
 
 
 <!--  ---------------->

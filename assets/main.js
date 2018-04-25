@@ -550,6 +550,29 @@ $(document).ready(function () {
                 .attr("aria-hidden", "false");
         });
 
+        var hash = document.location.hash;
+        if (hash) {
+            $('.tabsList .tablink')
+                .removeClass('current')
+                .attr("aria-selected", "false");
+            $('.tabPanel')
+                .removeClass('current')
+                .attr("aria-hidden", "true");
+
+            $('.tabsList .tablink a').each(function(){
+                if($(this).attr('href') == hash ){
+                    $(this).parent('.tablink')
+                        .addClass('current')
+                        .attr("aria-selected", "true");
+                }
+            });
+            $(hash)
+                .addClass('current')
+                .attr("aria-hidden", "false");
+            $("html, body").animate({ scrollTop: $('#tabs').offset().top -100 }, 1500);
+
+        }
+
         $('.notes-toggle').on("click", function () {
             $('.note-wrap').slideToggle();
         });
