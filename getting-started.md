@@ -8,7 +8,17 @@ strapline: Discover how to build unlimited reach for your activities
 layout: page-hero
 ---
 
-{::options parse_block_html="true" /} 
+---
+title: Getting started
+permalink: "/getting-started/"
+position: 3
+is_main_navigation: true
+thumbnail_image: "/uploads/iStock-803099000optimised.png"
+strapline: Discover how to build unlimited reach for your activities
+layout: page-hero
+---
+
+{::options parse_block_html="true" /}
 
 <!--  ---------------->
 <!-- TABS -->
@@ -81,7 +91,7 @@ Find out if your booking system is OpenActive-enabled by searching for it below.
 
 Your developers will need to create an OpenActive feed. This should take around 3 days of development time.
 
-[Booking System Guidance]( {{ site.baseurl }}{% getting-started %}#booking-systems){:class=" button-secondary" onclick="window.location.reload()"}
+[Booking System Guidance]( {{ site.baseurl }}{% link getting-started.md %}#booking-systems){:class=" button-secondary" onclick="window.location.reload()"}
 
 </div>
 </div>
@@ -135,7 +145,7 @@ You build a simple open API to allow customers to publish their activity listing
 
 If you don't own the data, either include some text in your T&Cs or add a tick box in your system to allow your customers to switch open data publishing on and off.
 
-[See Guidance]( {{ site.baseurl }}{% link how-to-publish-your-data.md %}){:class="button-secondary" }
+[See Guidance]( {{ site.baseurl }}{% link how-to-publish-your-data.markdown %}){:class="button-secondary" }
 
 </div>
 </div>
