@@ -5,7 +5,6 @@ permalink: "/how-to-publish-your-data/"
 ---
 
 {::options parse_block_html="true" /}
-
 <article class="title-row">
 
 <h2 class="sub-heading-two">Additional Instructions</h2>
