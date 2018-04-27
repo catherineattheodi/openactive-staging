@@ -140,7 +140,7 @@ If you don't own the data, either include some text in your T&Cs or add a tick b
 
 [View OpenActive-enabled systems]( {{ site.baseurl }}{% link bookingsystems.md %}){:class="button-secondary" }
 
-[See Guidance]( {{ site.baseurl }}{% link howtopublishyourdata.md %}){:class="button-secondary" }
+[See Guidance]( {{ site.baseurl }}{% link how-to-publish-your-data.markdown %}){:class="button-secondary" }
 </div>
 </div>
 
