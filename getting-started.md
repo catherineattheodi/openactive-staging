@@ -81,7 +81,7 @@ Find out if your booking system is OpenActive-enabled by searching for it below.
 
 Your developers will need to create an OpenActive feed. This should take around 3 days of development time.
 
-[Booking System Guidance]( {{ site.baseurl }}{% community/toolkit.html %}#booking-systems){:class=" button-secondary" onclick="window.location.reload()"}
+[Booking System Guidance]( {{ site.baseurl }}{% getting-started %}#booking-systems){:class=" button-secondary" onclick="window.location.reload()"}
 
 </div>
 </div>
