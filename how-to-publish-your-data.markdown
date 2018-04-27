@@ -1,6 +1,7 @@
 ---
 title: How to publish your data
 date: 2018-04-27 11:16:00 Z
+permalink: "/how-to-publish-your-data"
 ---
 
 **{::options parse_block_html="true" /} **
