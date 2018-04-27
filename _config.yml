@@ -148,9 +148,8 @@ defaults:
     layout: startup
     thumbnail_image: "/uploads/placeholder.png"
     twitter: 
-    linkedin: 
-    role: 
-    company: 
+    linkedin:
+    tagline:
     link: 
 compress_html:
   blanklines: false
