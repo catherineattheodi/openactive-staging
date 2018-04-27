@@ -4,11 +4,11 @@ date: 2018-04-27 11:16:00 Z
 permalink: "/how-to-publish-your-data/"
 ---
 
-\*\*{::options parse_block_html="true" /} \*\*
+{::options parse_block_html="true" /}
 
 <article class="title-row">
 
-<h2 class="sub-heading-two">A page heading here</h2>
+<h2 class="sub-heading-two">Additional Instructions</h2>
 
 <div class="one">
 
