@@ -116,7 +116,7 @@ aria-labelledby="booking-systems">
 
 ##### 1. Create Simple API
 
-You build a simple open API to allow customers to publish their activity listings openly using the OpenActive data standard as a '*dataset*'.
+You build a simple open API to allow customers to publish their activity listings openly using the OpenActive data standard as a 'dataset'.
 
 [See Instructions]( {{ site.baseurl }}{% link developer.md %}){:class="button-secondary" }
 [See Existing implementations](http://status.openactive.io/){:target="_blank"}{:class="button-secondary" }
@@ -269,7 +269,7 @@ Join the OpenActive community and use your local or commercial influence to get 
 <!-- [Feedback guidance]( {{ site.baseurl }}{% link developer.md %}){:class="button-primary" } -->
 [Join the community]( {{ site.baseurl }}{% link community.md %}){:class="button-secondary" }
 [Visit Active//choice](https://www.activechoice.org/){:target="_blank"}{: .button-secondary}
-[Go to developer area]( {{ site.baseurl }}{% link developer.md %}){: .button-secondary}
+
 
 </div>
 </div>
