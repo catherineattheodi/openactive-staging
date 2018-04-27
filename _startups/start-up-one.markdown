@@ -10,7 +10,7 @@ link: https://findarace.com/
 
 As the endurance sport market continues to grow, more people are taking part in mass participation events than ever before. But there are two problems: athletes can't find events to take part in and race organisers can't reach athletes.
 
-findarace.com connects people looking for their next goal with the thousands of mass participation sports events that take place every year. We provide a two-way service that helps athletes find events and event organisers reach athletes.
+[findarace.com](mailto:hello@findarace.com) connects people looking for their next goal with the thousands of mass participation sports events that take place every year. We provide a two-way service that helps athletes find events and event organisers reach athletes.
 
 We believe setting a clear goal is an effective way of raising levels of physical activity. findarace.com makes it easy to find and enter a race that interests you, and nothing provides the essential motivation like having a race in the diary.
 
