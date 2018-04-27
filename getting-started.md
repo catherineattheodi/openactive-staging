@@ -138,9 +138,7 @@ You build a simple open API to allow customers to publish their activity listing
 
 If you don't own the data, either include some text in your T&Cs or add a tick box in your system to allow your customers to switch open data publishing on and off.
 
-[See Guidance]({ site.baseurl }}{% link 
-publishing-data.md %})
-
+[See Guidance]( {{ site.baseurl }}{% link howtopublishmydata.md %}){:class="button-secondary" }
 </div>
 </div>
 
