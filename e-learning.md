@@ -217,27 +217,3 @@ One of the big questions that comes with opening up data is 'what will happen to
 </aside>
 
 </article>
-
-<!--  ---------------->
-<!-- ACCELERATOR BLOCKS -->
-<!--  ---------------->
-<article class="call_to_action--full-width global">
-<h2 class="sub-heading-two">Start Ups</h2>
-<div class="one">
-
-{% assign subpage = site.pages | where: 'title', 'Accelerator' %}
-{% for item in subpage %}
-
-### {{ item.title}}
-
-{{ item.strapline | markdownify }}
-
-\[Find out more\]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
-
-</div>
-<figure>
-<div class="mask"></div>
-<div class="image" style="background: url({{ site.baseurl }}{{ item.thumbnail_image }})center center / cover no-repeat;"></div>
-</figure>
-{% endfor %}
-</article>
