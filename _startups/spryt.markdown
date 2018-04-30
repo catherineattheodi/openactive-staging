@@ -3,7 +3,7 @@ title: SPRYT
 date: 2018-04-30 15:22:00 Z
 tags:
 - startups
-thumbnail_image: "/uploads/logo%20(1)%20-%20Daragh%20Donohoe.jpg"
+thumbnail_image: "/uploads/Screen%20Shot%202018-04-30%20at%2016.33.29.png"
 twitter: https://twitter.com/Sprytapp
 tagline: A community and marketplace platform for sports and fitness enthusiasts enabling
   users to find and connect with their nearest training partner, teammate, coach,
