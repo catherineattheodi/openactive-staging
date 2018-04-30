@@ -3,7 +3,7 @@ title: Shout
 date: 2018-04-30 15:17:00 Z
 tags:
 - startups
-thumbnail_image: "/uploads/shout-logo-dark%20-%20Tomas%20Paulik.png"
+thumbnail_image: "/uploads/Screen%20Shot%202018-04-30%20at%2016.46.24.png"
 twitter: https://twitter.com/ShoutMobileApp
 tagline: A SaaS solution for unified location-based information interchange
 link: http://shout-app.com/
