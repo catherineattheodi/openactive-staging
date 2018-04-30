@@ -1,7 +1,6 @@
 ---
 title: GoSweat
 date: 2018-04-27 10:44:00 Z
-published: false
 tags:
 - startups
 thumbnail_image: "/uploads/Screen%20Shot%202018-04-27%20at%2012.04.00.png"
