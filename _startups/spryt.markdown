@@ -11,7 +11,7 @@ tagline: A community and marketplace platform for sports and fitness enthusiasts
 link: https://www.spryt.com/
 ---
 
-SPRYT is a free-to-use social network helping you to discover new teammates, opponents, training partners, coaches and facilities near you. Whether your sporting experience is limited to running after your kids, sprinting to catch the bus or attempting to break the four-minute mile, SPRYT will help you find thousands of ways to get active near your home or work base. Our team is based in our offices in London. 
+SPRYT is a free-to-use social network helping you to discover new teammates, opponents, training partners, coaches and facilities near you. Whether your sporting experience is limited to running after your kids, sprinting to catch the bus or attempting to break the four-minute mile, SPRYT will help you find thousands of ways to get active near your home or work base.
 
 SPRYT have removed the awkward barriers in approaching other sports and exercise enthusiasts, creating the perfect platform to engage, create connections and discover new opportunities to get fit.
 
