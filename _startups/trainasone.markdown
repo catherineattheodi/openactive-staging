@@ -3,7 +3,7 @@ title: TrainAsOne
 date: 2018-04-30 15:35:00 Z
 tags:
 - startups
-thumbnail_image: "/uploads/TrainAsONE%20-%20Sean%20Radford-1.jpg"
+thumbnail_image: "/uploads/Screen%20Shot%202018-04-30%20at%2016.50.53.png"
 twitter: https://twitter.com/trainasone
 linkedin: https://www.linkedin.com/company/trainasone
 tagline: An award-winning AI personal running coach, solving the problem of keeping
