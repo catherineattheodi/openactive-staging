@@ -3,7 +3,7 @@ title: TrackActive
 date: 2018-04-30 15:30:00 Z
 tags:
 - startups
-thumbnail_image: "/uploads/Track-Active-Logo-RGB%20-%20Ian%20Prangley.png"
+thumbnail_image: "/uploads/Screen%20Shot%202018-04-30%20at%2016.51.03.png"
 twitter: http://www.twitter.com/@Track_Active
 linkedin: http://www.linkedin.com/company/3267671?trk=tyah&trkInfo=tarId%3A1396181335978%2Ctas%3Aactive%20health%20tec%2Cidx%3A1-1-1
 tagline: " Providing people with evidence-based and data-driven exercise interventions
