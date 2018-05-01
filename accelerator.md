@@ -342,7 +342,7 @@ LinkedIn
 <!--  ---------------->
 <!-- MENTORS BLOCK -->
 <!--  ---------------->
-
+<!--  
 <article class="title-row steps collapse-bottom-with-pad invert-2" id="selection">
 <h2 class="sub-heading-two">How we select startups</h2>
 <div class="one non-grid">
@@ -383,6 +383,7 @@ Up to 10 selected startups invited to join the accelerator
 </div>
 </div>
 </article>
+---->
 
 <!--  ---------------->
 <!-- TIME LINE BLOCK -->
