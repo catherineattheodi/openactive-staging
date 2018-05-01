@@ -73,20 +73,20 @@ From leisure operators to national governing bodies, local sports clubs to event
 
 ##### **Includes details such as:**
 
-* ![icons]({{ site.baseurl }}/assets/images/icons/prices.svg) How much will it cost?
+* ![icons]({{ site.baseurl }}/resources/images/icons/prices.svg) How much will it cost?
 
-* ![icons]({{ site.baseurl }}/assets/images/icons/availability.svg)  When is a court available?
+* ![icons]({{ site.baseurl }}/resources/images/icons/availability.svg)  When is a court available?
 
-* ![icons]({{ site.baseurl }}/assets/images/icons/locations.svg)  Where is the class? 
+* ![icons]({{ site.baseurl }}/resources/images/icons/locations.svg)  Where is the class? 
 {:.icons}
 
 ##### **But not data like:**
 
-* ![icons]({{ site.baseurl }}/assets/images/icons/attendance.svg)  Participation and attendance data
+* ![icons]({{ site.baseurl }}/resources/images/icons/attendance.svg)  Participation and attendance data
 
-* ![icons]({{ site.baseurl }}/assets/images/icons/sensitive.svg)  Commercially sensitive data
+* ![icons]({{ site.baseurl }}/resources/images/icons/sensitive.svg)  Commercially sensitive data
 
-* ![icons]({{ site.baseurl }}/assets/images/icons/customer.svg)  Customer data
+* ![icons]({{ site.baseurl }}/resources/images/icons/customer.svg)  Customer data
 {:.icons}
 
 
@@ -201,6 +201,9 @@ What's happening in the community, and how you can get involved!
 <!--  ---------------->
 <!-- NEWS BLOCK -->
 <!--  ---------------->
+
+<!--
+
 <article class="post-list title-row">
 <h2 class="sub-heading-two"> Latest News</h2>
 {% assign thePosts = site.posts | where: "is_featured", "true" %}
@@ -234,3 +237,5 @@ What's happening in the community, and how you can get involved!
 </div>
 {% endfor %}
 </article>
+
+-->

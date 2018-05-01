@@ -266,6 +266,25 @@ The Open Data Institute sits at the heart of the open data movement globally…\
 </div>
 
 </article>
+<!--  ---------------->
+<!-- START-UPS -->
+<!--  ---------------->
+<article>
+<div class="one">
+
+## OpenActive Startups
+
+The OpenActive Accelerator is supporting 10 startups that use open opportunity data to develop digital products and services that help people get active.
+
+</div>
+</article>
+
+<!--  ---------------->
+<!-- START-UPS  -->
+<!--  ---------------->
+
+{% include startup.html %}
+
 
 <!--  ---------------->
 <!-- MENTORS BLOCK -->
@@ -323,7 +342,7 @@ LinkedIn
 <!--  ---------------->
 <!-- MENTORS BLOCK -->
 <!--  ---------------->
-
+<!--  
 <article class="title-row steps collapse-bottom-with-pad invert-2" id="selection">
 <h2 class="sub-heading-two">How we select startups</h2>
 <div class="one non-grid">
@@ -364,6 +383,7 @@ Up to 10 selected startups invited to join the accelerator
 </div>
 </div>
 </article>
+---->
 
 <!--  ---------------->
 <!-- TIME LINE BLOCK -->
@@ -371,7 +391,7 @@ Up to 10 selected startups invited to join the accelerator
 <article class="title-row invert-5">
 <h2 class="sub-heading-two">Timeline</h2>
 <div class="one">
-<img src="{{ site.baseurl }}/assets/images/TimelineNew.png">
+<img src="{{ site.baseurl }}/resources/images/TimelineNew.png">
 </div>
 </article>
 
@@ -402,24 +422,6 @@ Up to 10 selected startups invited to join the accelerator
 
 
 
-<!--  ---------------->
-<!-- START-UPS -->
-<!--  ---------------->
-<article>
-<div class="one">
-
-## OpenActive Startups
-
-The OpenActive Startups Amet assumenda est ab asperiores incidunt unde. Officia tempore rem eaque. Rerum tenetur aliquid ut eos deserunt suscipit.
-
-</div>
-</article>
-
-<!--  ---------------->
-<!-- START-UPS  -->
-<!--  ---------------->
-
-{% include startup.html %}
 
 
 

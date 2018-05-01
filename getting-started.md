@@ -8,6 +8,8 @@ strapline: Discover how to build unlimited reach for your activities
 layout: page-hero
 ---
 
+---
+
 {::options parse_block_html="true" /}
 
 <!--  ---------------->
@@ -39,7 +41,7 @@ aria-labelledby="activity-provider">
 <!--STEP ONE-->
 <div>
 
-![Webpage icon]({{ site.baseurl }}/assets/images/icons/tab1-step1.svg)
+![Webpage icon]({{ site.baseurl }}/resources/images/icons/tab1-step1.svg)
 
 <div class="step-text">
 
@@ -54,7 +56,7 @@ You may already use a booking system or club management system to list your acti
 <!--STEP TWO-->
 <div>
 
-![Tick box ]({{ site.baseurl }}/assets/images/icons/tab1-step2.svg)
+![Tick box ]({{ site.baseurl }}/resources/images/icons/tab1-step2.svg)
 
 <div class="step-text">
 
@@ -73,7 +75,7 @@ Find out if your booking system is OpenActive-enabled by searching for it below.
 <!--STEP THREE-->
 <div>
 
-![Your data is now open]({{ site.baseurl }}/assets/images/icons/tab1-step3.svg)
+![Your data is now open]({{ site.baseurl }}/resources/images/icons/tab1-step3.svg)
 
 <div class="step-text">
 
@@ -110,13 +112,13 @@ aria-labelledby="booking-systems">
 <!--STEP ONE-->
 <div>
 
-![Booking Systems]({{ site.baseurl }}/assets/images/icons/tab2-step1.svg)
+![Booking Systems]({{ site.baseurl }}/resources/images/icons/tab2-step1.svg)
 
 <div class="step-text">
 
 ##### 1. Create Simple API
 
-You build a simple open API to allow customers to publish their activity listings openly using the OpenActive data standard as a '*dataset*'.
+You build a simple open API to allow customers to publish their activity listings openly using the OpenActive data standard as a 'dataset'.
 
 [See Instructions]( {{ site.baseurl }}{% link developer.md %}){:class="button-secondary" }
 [See Existing implementations](http://status.openactive.io/){:target="_blank"}{:class="button-secondary" }
@@ -127,7 +129,7 @@ You build a simple open API to allow customers to publish their activity listing
 <!--STEP TWO-->
 <div>
 
-![Open Data]({{ site.baseurl }}/assets/images/icons/tab2-step2.svg)
+![Open Data]({{ site.baseurl }}/resources/images/icons/tab2-step2.svg)
 
 <div class="step-text">
 
@@ -135,15 +137,16 @@ You build a simple open API to allow customers to publish their activity listing
 
 If you don't own the data, either include some text in your T&Cs or add a tick box in your system to allow your customers to switch open data publishing on and off.
 
-[See Guidance]( {{ site.baseurl }}{% link how-to-publish-your-data.markdown %}){:class="button-secondary" }
+[View OpenActive-enabled systems]( {{ site.baseurl }}{% link bookingsystems.md %}){:class="button-secondary" }
 
+[See Guidance]( {{ site.baseurl }}{% link how-to-publish-your-data.markdown %}){:class="button-secondary" }
 </div>
 </div>
 
 <!--STEP THREE-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/assets/images/icons/tab2-step3.svg)
+![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab2-step3.svg)
 
 <div class="step-text">
 
@@ -159,7 +162,7 @@ Create a 'dataset' page on your website, making your data available for anyone t
 <!--STEP FOUR-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/assets/images/icons/tab2-step4.svg)
+![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab2-step4.svg)
 
 <div class="step-text">
 
@@ -170,7 +173,7 @@ From websites and apps that attract millions of users, through to communities an
 Data users may, from time to time, provide feedback or suggestions on how you can improve the data your customers publish.
 We'll publicise your data to make sure that as many people use it as possible.
 
-[See Examples]({{ site.baseurl }}{% link our-vision.md %}/#what-kind-of-services-can-be-built-with-open-opportunity-data){: .button-secondary}
+[See Examples]({{ site.baseurl }}{% link our-vision.md %}/#what-kind-of-services-can-use-open-opportunity-data){: .button-secondary}
 
 </div>
 </div>
@@ -199,7 +202,7 @@ aria-labelledby="use-data">
 </div>
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/assets/images/icons/tab3-step1.svg)
+![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab3-step1.svg)
 
 <div class="step-text">
 
@@ -217,7 +220,7 @@ Browse our status dashboard and map to understand the kinds of data available, a
 <!--STEP TWO-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/assets/images/icons/tab3-step2.svg)
+![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab3-step2.svg)
 
 <div class="step-text">
 
@@ -236,7 +239,7 @@ If you already have a website that engages an audience, an app, or a tool, it's 
 <!--STEP THREE-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/assets/images/icons/tab3-step3.svg)
+![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab3-step3.svg)
 
 <div class="step-text">
 
@@ -256,7 +259,7 @@ There are also data aggregators that provide one API to access all the data, and
 <!--STEP FOUR-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/assets/images/icons/tab3-step4.svg)
+![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab3-step4.svg)
 
 <div class="step-text">
 
@@ -269,7 +272,7 @@ Join the OpenActive community and use your local or commercial influence to get 
 <!-- [Feedback guidance]( {{ site.baseurl }}{% link developer.md %}){:class="button-primary" } -->
 [Join the community]( {{ site.baseurl }}{% link community.md %}){:class="button-secondary" }
 [Visit Active//choice](https://www.activechoice.org/){:target="_blank"}{: .button-secondary}
-[Go to developer area]( {{ site.baseurl }}{% link developer.md %}){: .button-secondary}
+
 
 </div>
 </div>

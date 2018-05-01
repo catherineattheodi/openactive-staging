@@ -113,7 +113,7 @@ The specification defines a data model to help different platforms and applicati
 <h2 class="sub-heading-two">Data Tools</h2>
 <div class="two tworight">
 
-![Hero]({{ site.baseurl }}/assets/images/icons/dash.svg)
+![Hero]({{ site.baseurl }}/resources/images/icons/dash.svg)
 
 
 </div>
@@ -132,7 +132,7 @@ Explore the dashboard to find the data you need, identify which feeds conform to
 <article class="dashboard">
 <div class="two tworight">
 
-![Hero]({{ site.baseurl }}/assets/images/icons/dash-map.svg)
+![Hero]({{ site.baseurl }}/resources/images/icons/dash-map.svg)
 
 </div>
 <div class="two tworight">
@@ -173,7 +173,7 @@ Explore the map to find the data you need, identify which areas are embracing op
 
 [ Modelling specification](https://www.openactive.io/modelling-opportunity-data/){:target="_blank"}{: .link} - The specification for the OpenActive API data fields
 
-[ Beta Namespace](https://www.openactive.io/ns-beta/ /){:target="_blank"}{: .link} - Additional fields that are available for use but still under discussion
+[ Beta Namespace](https://www.openactive.io/ns-beta/){:target="_blank"}{: .link} - Additional fields that are available for use but still under discussion
 
 [ British Cycling Annotated Example](https://github.com/openactive/activation/issues/104){:target="_blank"}{: .link} - A "batteries included" example of a publishing endpoint
 
