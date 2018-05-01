@@ -319,6 +319,24 @@ LinkedIn
 <a class="button-primary--ghost mobile-show">View More</a>
 </div>
 </article>
+<!--  ---------------->
+<!-- START-UPS -->
+<!--  ---------------->
+<article>
+<div class="one">
+
+## OpenActive Startups
+
+The OpenActive Accelerator is supporting 10 startups that use open opportunity data to develop digital products and services that help people get active.
+
+</div>
+</article>
+
+<!--  ---------------->
+<!-- START-UPS  -->
+<!--  ---------------->
+
+{% include startup.html %}
 
 <!--  ---------------->
 <!-- MENTORS BLOCK -->
@@ -402,24 +420,6 @@ Up to 10 selected startups invited to join the accelerator
 
 
 
-<!--  ---------------->
-<!-- START-UPS -->
-<!--  ---------------->
-<article>
-<div class="one">
-
-## OpenActive Startups
-
-The OpenActive Accelerator is supporting 10 startups that use open opportunity data to develop digital products and services that help people get active.
-
-</div>
-</article>
-
-<!--  ---------------->
-<!-- START-UPS  -->
-<!--  ---------------->
-
-{% include startup.html %}
 
 
 
