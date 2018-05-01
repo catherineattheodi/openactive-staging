@@ -16,9 +16,8 @@ layout: page-accelerator
 <!--  ---------------->
 <!-- HERO BLOCK -->
 <!--  ---------------->
-<article class="hero--large collapse-bottom"
-style="background: url({{site.baseurl}}{{page.thumbnail_image}})center 43% / cover no-repeat;">
-<!--style="background: linear-gradient(to right, #3B3089 0%, transparent 100%),  url({{site.baseurl}}{{page.thumbnail_image}})center 43% / cover no-repeat;">-->
+<article markdown="0" class="hero--simple">
+<i class="line-graphic">{% include slim-line-graphic.svg %}</i>
 <div class="one">
 
 ### For millions, staying active is hard
