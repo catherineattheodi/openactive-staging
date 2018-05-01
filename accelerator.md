@@ -410,7 +410,7 @@ Up to 10 selected startups invited to join the accelerator
 
 ## OpenActive Startups
 
-The OpenActive accelerator launches on 1 May! Check back to find out more about the startups in the programme.
+The OpenActive Accelerator is supporting 10 startups that use open opportunity data to develop digital products and services that help people get active.
 
 </div>
 </article>
