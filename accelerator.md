@@ -271,11 +271,6 @@ The Open Data Institute sits at the heart of the open data movement globally…\
 <!--  ---------------->
 <article>
 <div class="one">
-
-## OpenActive Startups
-
-The OpenActive Accelerator is supporting 10 startups that use open opportunity data to develop digital products and services that help people get active.
-
 </div>
 </article>
 
