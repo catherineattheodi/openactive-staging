@@ -1,6 +1,7 @@
 ---
 title: Bookingbug
 date: 2018-05-02 13:07:00 Z
+thumbnail_image: "/uploads/bookingbug-700a75.png"
 website: https://www.bookingbug.co.uk/
 ---
 
