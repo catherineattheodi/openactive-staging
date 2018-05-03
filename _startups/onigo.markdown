@@ -5,8 +5,10 @@ tags:
 - startups
 thumbnail_image: "/uploads/Screen%20Shot%202018-05-03%20at%2009.58.56.png"
 twitter: https://twitter.com/PlayOnigo
-tagline: Immersive team adventures against the clock, delivered through your phone,
-  but lived in your local park
+tagline: Onigo aims to become the largest physical activity provider in the world,
+  without owning any facility. We create tech-enabled real-world experiences in the
+  form of Pervasive Active Games and build communities of weekly players in local
+  parks
 link: https://onigoescapes.com/
 ---
 
