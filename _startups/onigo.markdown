@@ -3,7 +3,7 @@ title: Onigo Escapes
 date: 2018-04-27 10:58:00 Z
 tags:
 - startups
-thumbnail_image: "/uploads/Screen%20Shot%202018-04-30%20at%2016.47.47.png"
+thumbnail_image: "/uploads/Screen%20Shot%202018-05-03%20at%2009.58.56.png"
 twitter: https://twitter.com/PlayOnigo
 tagline: Immersive team adventures against the clock, delivered through your phone,
   but lived in your local park
