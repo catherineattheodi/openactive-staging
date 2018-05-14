@@ -51,6 +51,8 @@ aria-labelledby="activity-provider">
 
 Find out if your booking system is OpenActive-enabled by searching for it below. If your booking system isn't listed, you may need to ask your system provider to create an OpenActive feed.
 
+*Start typing the name of your booking system in the box below:*
+
 <div class="slim-booking">
 {% include booking-systems-slim.html %}
 </div>
