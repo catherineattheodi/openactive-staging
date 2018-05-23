@@ -16,21 +16,21 @@ layout: page-hero
 <!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
 <!--  ---------------->
 
-**We collect data about you when you use this website. We do this so that we can understand what interests people and how we can improve the site. We share some of this data with third parties who provide us with analytics and other services.
-**
+**We collect data about you when you use this website. We do this so that we can understand what interests people and how we can improve the site. We share some of this data with third parties who provide us with analytics and other services.**
 
 
-You have [rights over what is done with data that is about you](https://ico.org.uk/for-the-public/). You can contact us at [hello@openactive.io](hello@openactive.io) if you want to get a copy of that data. You can also ask us to update it, delete it or stop using it.
+You have [rights over what is done with data that is about you](https://ico.org.uk/for-the-public/). You can contact us at [hello@openactive.io](mailto:hello@openactive.io) if you want to get a copy of that data. You can also ask us to update it, delete it or stop using it.
 
 
 ## What data do we collect and why?
 
 When you join the community and mailing list, we ask for and keep the following:
+
 * your name, so we know how to address you
 
 * your email address, so we can contact you
 
-We store this data until you delete your account, which you can do from your account page on the website, by updating your preferences on Mailchimp or by contacting us at [hello@openactive.io](hello@openactive.io).
+We store this data until you delete your account, which you can do from your account page on the website, by updating your preferences on Mailchimp or by contacting us at [hello@openactive.io](mailto:hello@openactive.io).
 
 We collect data as you use this website about:
 
@@ -87,7 +87,7 @@ Because we operate in the UK, [you have rights](https://ico.org.uk/for-organisat
 
 If you ask for a copy of data we have about you, we have to provide it to you free of charge. You can ask us to send it directly to a third party. We have to provide it in a commonly-used machine-readable format.
 
-You can do some of these things through the website, by editing or deleting your account. Otherwise, contact [hello@openactive.io](hello@openactive.io).
+You can do some of these things through the website, by editing or deleting your account. Otherwise, contact [hello@openactive.io](mailto:hello@openactive.io).
 
 Please tell us if you have concerns about how we collect, use or share data about you. You can also [raise your concerns](https://ico.org.uk/for-the-public/raising-concerns/) with the UK Information Commissioner’s Office.
 
@@ -99,9 +99,9 @@ We created this privacy policy on **23rd May 2018**. If you have an account with
 
 ## Who can I talk to about this policy?
 
-Please send any questions about this privacy policy to [hello@openactive.io](hello@openactive.io). 
+Please send any questions about this privacy policy to [hello@openactive.io](mailto:hello@openactive.io). 
 
-The data controller for this website is Open Data Institute of 65 Clifton Street, London, EC2A 4JE. Our data protection officer is [Leigh Dodds](leigh.dodds@theodi.org).
+The data controller for this website is Open Data Institute of 65 Clifton Street, London, EC2A 4JE. Our data protection officer is [Leigh Dodds](mailto:leigh.dodds@theodi.org).
 
 
 </div>
