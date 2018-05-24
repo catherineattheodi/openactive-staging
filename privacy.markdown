@@ -1,5 +1,5 @@
 ---
-title: Your privacy
+title: Privacy policy
 date: 2018-04-16 11:38:00 Z
 permalink: "/privacy-policy"
 position: 31
