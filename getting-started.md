@@ -153,7 +153,7 @@ If you don't own the data, either include some text in your T&Cs or add a tick b
 <!--STEP THREE-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab2-step3.svg)
+![Dataset page icon]({{ site.baseurl }}/resources/images/icons/tab2-step3.svg)
 
 <div class="step-text">
 
@@ -169,7 +169,7 @@ Create a 'dataset' page on your website, making your data available for anyone t
 <!--STEP FOUR-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab2-step4.svg)
+![Browser, phone, watch icons]({{ site.baseurl }}/resources/images/icons/tab2-step4.svg)
 
 <div class="step-text">
 
@@ -209,7 +209,7 @@ aria-labelledby="use-data">
 </div>
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab3-step1.svg)
+![Status dashboard and map icon]({{ site.baseurl }}/resources/images/icons/tab3-step1.svg)
 
 <div class="step-text">
 
@@ -227,7 +227,7 @@ Browse our status dashboard and map to understand the kinds of data available, a
 <!--STEP TWO-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab3-step2.svg)
+![Browser, phone, watch icons]({{ site.baseurl }}/resources/images/icons/tab3-step2.svg)
 
 <div class="step-text">
 
@@ -246,7 +246,7 @@ If you already have a website that engages an audience, an app, or a tool, it's 
 <!--STEP THREE-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab3-step3.svg)
+![Selection box icon]({{ site.baseurl }}/resources/images/icons/tab3-step3.svg)
 
 <div class="step-text">
 
@@ -266,7 +266,7 @@ There are also data aggregators that provide one API to access all the data, and
 <!--STEP FOUR-->
 <div>
 
-![what_open_data.png]({{ site.baseurl }}/resources/images/icons/tab3-step4.svg)
+![Speech bubble icons]({{ site.baseurl }}/resources/images/icons/tab3-step4.svg)
 
 <div class="step-text">
 
