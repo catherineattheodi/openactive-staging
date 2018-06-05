@@ -180,7 +180,7 @@ From websites and apps that attract millions of users, through to communities an
 Data users may, from time to time, provide feedback or suggestions on how you can improve the data your customers publish.
 We'll publicise your data to make sure that as many people use it as possible.
 
-[See Examples]({{ site.baseurl }}{% link our-vision.md %}#how-will-this-benefit-activity-providers){: .button-secondary}
+[See Examples]({{ site.baseurl }}{% link our-vision.md %}#examples-scroll){: .button-secondary}
 
 </div>
 </div>
@@ -237,7 +237,7 @@ From websites and apps that attract millions of users, through to communities an
 
 If you already have a website that engages an audience, an app, or a tool, it's useful to include the data in the same place. You might want to build a whole new app, website, or service, depending on whether you're a long-term business or a short-term campaign.
 
-[See Examples]({{ site.baseurl }}{% link our-vision.md %}/#what-kind-of-services-can-be-built-with-open-opportunity-data){: .button-secondary}
+[See Examples]({{ site.baseurl }}{% link our-vision.md %}#examples-scroll){: .button-secondary}
 
 </div>
 
