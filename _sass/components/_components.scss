@@ -402,7 +402,6 @@ article {
           opacity: 0;
         }
       }
-
     }
     .checkbox * {
       box-sizing: border-box;
@@ -482,6 +481,31 @@ article {
       border-radius: 0;
     }
 
+  }
+}
+
+html.no-cssgrid {
+  .how-work-hero{
+    .inner{
+      width: 49%;
+      display: inline-block;
+      vertical-align: top;
+      &.animate{
+        position: relative;
+        .block{
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+        }
+      }
+      .svg:not(.checkbox){
+        width: 100%;
+        img{
+          width: 50%;
+        }
+      }
+    }
   }
 }
 
@@ -2787,6 +2811,36 @@ article {
     text-transform: initial;
   }
 }
+html.no-cssgrid {
+  .types{
+    .types-inner{
+      div{
+        width: 12%;
+        display: inline-block;
+        vertical-align: top;
+      }
+    }
+  }
+  .properties{
+    .properties-inner{
+      div{
+        width: 9.5%;
+        display: inline-block;
+        vertical-align: top;
+      }
+    }
+  }
+  .not-included{
+    .not-included-inner{
+      div{
+        width: 12%;
+        display: inline-block;
+        vertical-align: top;
+      }
+    }
+  }
+}
+
 
 //OUR VISON PAGE
 .benefits {
