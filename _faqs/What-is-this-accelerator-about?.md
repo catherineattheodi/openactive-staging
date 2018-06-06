@@ -1,5 +1,5 @@
 ---
-title: What is this accelerator about?
+title: What is the accelerator about?
 date: 2017-07-06 06:18:00 Z
 permalink: blog/faq-three.html
 categories:
