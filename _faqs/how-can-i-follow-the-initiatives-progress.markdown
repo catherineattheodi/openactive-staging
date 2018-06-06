@@ -5,4 +5,4 @@ categories:
 - About OpenActive
 ---
 
-Join the [mailing list](http://openactive.us13.list-manage1.com/subscribe?u=9e6648557f84731796a4ac873&id=1665f95799) and follow us on Twitter
+Join the [mailing list](http://openactive.us13.list-manage1.com/subscribe?u=9e6648557f84731796a4ac873&id=1665f95799) and follow us on [Twitter](https://twitter.com/openactiveio).
