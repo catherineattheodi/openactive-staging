@@ -21,7 +21,7 @@ style="background: url({{site.baseurl}}{{page.thumbnail_image}})center 43% / cov
 <!--style="background: linear-gradient(to right, #3B3089 0%, transparent 100%),  url({{site.baseurl}}{{page.thumbnail_image}})center 43% / cover no-repeat;">-->
 <div class="one">
 
-##18 million people in the UK are not active enough.*
+**18 million people in the UK are not active enough.***
 
 We want to tackle this problem by combining technology and open data. 
 
