@@ -21,7 +21,7 @@ style="background: url({{site.baseurl}}{{page.thumbnail_image}})center 43% / cov
 <!--style="background: linear-gradient(to right, #3B3089 0%, transparent 100%),  url({{site.baseurl}}{{page.thumbnail_image}})center 43% / cover no-repeat;">-->
 <div class="one">
 
-18 million people in the UK are not active enough.*
+#18 million people in the UK are not active enough.*
 
 We want to tackle this problem by combining technology and open data. 
 
@@ -59,23 +59,24 @@ target="_blank">Active Lives Survey - 16/17</a></p>
 <div class="line-graphic"></div>
 </article>
 <!--  ---------------->
-<!-- START-UPS -->
+<!-- STARTUPS -->
 <!--  ---------------->
 <article>
+<h2 class="sub-heading-two">Startups</h2>
 <div class="one">
 </div>
 </article>
 {% include startup.html %}
 <!--  ---------------->
-<!-- START-UPS  -->
+<!-- STARTUPS  -->
 <!--  ---------------->
 
 
 <!--  ---------------->
-<!-- START-UPS BLOCK -->
+<!-- STARTUPS BLOCK -->
 <!--  ---------------->
 <article id="hover-blocks" class="title-row">
-<h2 class="sub-heading-two">What startups get</h2>
+<h2 class="sub-heading-two">Services</h2>
 <div class="one">
 <div class="inline-block-five">
 <figure>
