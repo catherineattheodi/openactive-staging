@@ -185,7 +185,7 @@ target="_blank">Active Lives Survey - 16/17</a></p>
 <!-- STATS & QUOTE BLOCK -->
 <!--  ---------------->
 <article class="invert stats title-row">
-<h2 class="sub-heading-two">Our experience supporting startups</h2>
+<h2 class="sub-heading-two">The Startup Programmes at the ODI</h2>
 
 <div class="two stats">
 <div class="subgrid">
