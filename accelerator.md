@@ -21,17 +21,23 @@ style="background: url({{site.baseurl}}{{page.thumbnail_image}})center 43% / cov
 <!--style="background: linear-gradient(to right, #3B3089 0%, transparent 100%),  url({{site.baseurl}}{{page.thumbnail_image}})center 43% / cover no-repeat;">-->
 <div class="one">
 
-### For millions, staying active is hard
+18 million people in the UK are not active enough.*
 
-### Let’s make it easier
+We want to tackle this problem by combining technology and open data. 
 
-Almost 18 million (39.4%) of adults in England don’t exercise enough to improve their health and
-wellbeing.
 
+The aim of the ODI’s OpenActive Accelerator, supported by Sport England, is to tap into technologies connecting organisations, data providers and startups to tackle inactivity by providing access to a network of mentors, advisors and ‘open opportunity data’: data about where and when fitness activities happen to get more people getting active. 
+
+Open opportunity data helps people decide whether an activity is (or isn’t) for them. 
+It includes real-time information and integrated booking options for classes, sessions and clubs, spare places in leagues, tennis courts, and football pitches for hire. 
+Startups can use opportunity data in many ways to inspire people to be more active, through apps and platforms, satisfying users needs and delivering experiences aligned to the high tech era we are living now. 
+
+*they exercise with moderate intensity for less than 149 mins a week. 
 ###### Sport England
 
 <p><a href="https://www.sportengland.org/media/12458/active-lives-adult-may-16-17-report.pdf"
 target="_blank">Active Lives Survey - 16/17</a></p>
+
 </div>
 </article>
 
@@ -41,14 +47,6 @@ target="_blank">Active Lives Survey - 16/17</a></p>
 <article class="intro-text invert">
 <div class="one">
 
-**We want to get people active using data.** For months, activity providers have been openly publishing their opportunity data for our OpenActive Accelerator. Now, it’s over to you. If you have an innovative idea that uses open opportunity data to help people discover and take part in physical activities, [we want to hear from you.](https://docs.google.com/document/d/1o06BCIxYRc1-7vQy4z6N7RL7ebw5kj8QaAkLb4v-8og/edit){:target="_blank"}
-
-Open opportunity data helps people decide whether an activity is (or isn’t) for them. It includes real-time information and integrated booking options for classes, sessions and clubs, spare places in leagues, tennis courts, and football pitches for hire. You can use opportunity data in many ways to inspire people to be more active, remove pain points, and deliver better customer experiences.
-
-Developments in **data**, social media, VR and AI are having a huge impact on people’s lives, changing the way we travel and entertain ourselves. In the sport and physical activity sector, information about activity opportunities are often siloed, making it harder to innovate -
- until now.
-
-That's why we're launching the ODI's OpenActive Accelerator supported by Sport England.
 
 </div>
 <!-- <div class="two">
