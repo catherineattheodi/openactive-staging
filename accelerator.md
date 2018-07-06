@@ -2,7 +2,7 @@
 title: Accelerator
 permalink: "/accelerator/"
 position: 30
-is_main_navigation: false
+is_main_navigation: true
 is_secondary_navigation: true
 thumbnail_image: "/uploads/cover12_2.jpg"
 strapline: The OpenActive Accelerator is part of a groundbreaking open data initiative
