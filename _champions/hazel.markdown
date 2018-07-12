@@ -3,7 +3,7 @@ title: Hazel
 date: 2018-03-16 14:57:00 Z
 position: 1
 second-name: Musgrove
-thumbnail_image: "/uploads/Hazel%20Square.png"
+thumbnail_image: "/uploads/Hazel%20square-049094.png"
 twitter: https://twitter.com/hazel_musgrove?lang=en
 linkedin: https://uk.linkedin.com/in/hazel-musgrove-52258994
 role: Development Manager; Research and Insight
