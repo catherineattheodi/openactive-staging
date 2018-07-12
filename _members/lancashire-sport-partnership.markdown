@@ -1,10 +1,10 @@
 ---
-title: Lancashire Sport Partnership
+title: Active Lancashire
 date: 2018-01-26 01:18:00 Z
 is_featured: false
-thumbnail_image: "/uploads/lancashire_sport_partnership.png"
+thumbnail_image: "/uploads/ACT_Primary_Logo_No_Strapline_RGB_300dpi.jpg"
+website: https://www.activelancashire.org.uk/about-us
 layout: member
-website: http://www.lancashiresport.org.uk/about-us
 ---
 
-Lancashire Sport Partnership leads and supports the development of creative and committed partnerships, through which high quality sport and physical activity is developed and delivered, to enable 55,000 more individuals in Lancashire to be active by 2017.
+Active Lancashire is a charity that leads effective partnerships to increase activity levels and improve the health and wellbeing of Lancashire’s communities through sport and physical activity. We deliver on national strategies and address local need for provision, to support people to lead active lives.
