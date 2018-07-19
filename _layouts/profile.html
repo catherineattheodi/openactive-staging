@@ -63,8 +63,15 @@ layout: default
                     .currentUser.updateEmail(document.getElementById("email").value)
                     .then(writeOrgData({
                         "booking-system": document.getElementById("user-booking-system").value || ""
-                    }))
+                    })),
             );
+            //SUCCESS MESSAGE
+            var x = document.getElementById("success-message");
+            x.style.display = "block";
+            setTimeout(function () {
+                x.style.display = "none";
+            }, 5000);   // 5 seconds
+
         };
         document.getElementById("save-org").onclick = e => {
             e.preventDefault();
@@ -77,6 +84,13 @@ layout: default
             });
 
             writeData("save-org", writeOrgData, data);
+
+            //SUCCESS MESSAGE
+            var x = document.getElementById("success-message-org");
+            x.style.display = "block";
+            setTimeout(function () {
+                x.style.display = "none";
+            }, 5000);   // 5 seconds
         };
 
         document.getElementById("delete-user").onclick = e => {
@@ -263,8 +277,9 @@ layout: default
                     </checkbox-section>
 
                 </div>
-                <button type="submit" id="save-user">Join</button>
+                <button type="submit" id="save-user" onClick="sucessMessage();">Join</button>
                 <button class="button-primary--ghost" type="button" id="delete-user">Delete My Account</button>
+                <div id="success-message" class="success-message-styling"><h4>Thanks the content has been submitted!</h4></div>
             </form>
         </div>
         <div class="one profilePanel" id="organisation-profile">
@@ -286,6 +301,7 @@ layout: default
                 <button class="button-primary--alt" type="button" id="upload-logo">Upload Logo</button>
                 <br/>
                 <button type="submit" id="save-org">Publish to OpenActive website</button>
+                <div id="success-message-org" class="success-message-styling"><h4>Thanks the content has been submitted!</h4></div>
 
             </form>
 
