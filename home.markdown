@@ -100,9 +100,11 @@ From leisure operators to national governing bodies, local sports clubs to event
 <!-- OPEN DATA ILLUSTRATION -->
 <!--  ---------------->
 <article class="title-row">
-<h2 class="sub-heading-two">What is Open Data?</h2>
+<h2 class="sub-heading-two">What is the definition?</h2>
 <div class="one">
 
+<h3>What is Open Data?</h3>
+<p class="reset-style">
 Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and researchers to develop useful resources, which make crucial improvements to their communities and markets.</p>
 </div>
 </article>
