@@ -11,4 +11,8 @@ layout: join
 #### Open Invitation
 We can only make this change happen by working together; innovating through collaboration.
 
-If you want to get in touch or get involved, please sign up.
+Membership for the OpenActive community is free.
+
+If you are want to get in touch or get involved, sign up to our community and newsletter!
+
+Alternatively, you can also sign up to our [Slack](http://openactive.slack.com).
