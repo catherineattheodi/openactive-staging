@@ -13,6 +13,6 @@ We can only make this change happen by working together; innovating through coll
 
 Membership for the OpenActive community is free.
 
-If you are want to get in touch or get involved, sign up to our community and newsletter!
+If you want to [get in touch](http://mailto:hello@openactive.io) or get involved, sign up to our community and [newsletter](https://openactive.us13.list-manage1.com/subscribe?u=9e6648557f84731796a4ac873&id=1665f95799) to find out more!
 
 Alternatively, you can also sign up to our [Slack](http://openactive.slack.com)
