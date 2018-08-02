@@ -73,7 +73,7 @@ Take a look at all activity data available across the country
 
 ### OpenActive dashboard
 
-View our OpenActive dashboard that visualises the initiative's progress
+View our OpenActive dashboard on Geckoboard that visualises the initiative's progress. The dashboard provides information about publication and communication efforts, use of opportunity data \[?\] , and different trends. 
 
 [View dashboard](https://share.geckoboard.com/dashboards/DTZRCARKEXHZGUVC)
 
