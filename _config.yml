@@ -2,9 +2,6 @@
 title: OpenActive
 timezone: UTC
 collections:
-  blog:
-    title: Blog
-    output: true
   bookingsystems:
     title: Booking Systems
     output: true
