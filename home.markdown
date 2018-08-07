@@ -6,7 +6,7 @@ is_main_navigation: false
 layout: home
 ---
 
-{::options parse_block_html="true" /}
+ {::options parse_block_html="true" /}
  
  <!--  ---------------->
  <!-- HERO BLOCK -->
@@ -51,27 +51,30 @@ layout: home
 <!-- BOOKING SYSTEMS -->
 <!--  ---------------->
 {% include booking-systems-1-copy.html %}
- <!--  ---------------->
+
+<!--  ---------------->
 <!-- WHAT WE DO -->
- <!--  ---------------->
- <article class="title-row what-we-do">
- <h2 class="sub-heading-two">What we do</h2>
- <div class="two twoleft">
+<!--  ---------------->
+<article class="title-row what-we-do">
+<h2 class="sub-heading-two">What we do</h2>
+<div class="content">
+<div class="two twoleft">
  
- ### Our goal is to make data on what, where and when physical activity sessions happen openly available.
+<h1> Our goal is to make data on what, where and when physical activity sessions happen openly available.
  
- Stewarded by the Open Data Institute (ODI), we're a growing community of sport and physical activity organisations and individuals. We're working collaboratively as a sector to open up data about physical activity opportunities.
+Stewarded by the Open Data Institute (ODI), we're a growing community of sport and physical activity organisations and individuals. We're working collaboratively as a sector to open up data about physical activity opportunities.
  
- From leisure operators to national governing bodies, local sports clubs to event providers, walking groups to fitness instructors, the ODI is helping organisations use opportunity data to build interesting products, tools and experiences for consumers.
+From leisure operators to national governing bodies, local sports clubs to event providers, walking groups to fitness instructors, the ODI is helping organisations use opportunity data to build interesting products, tools and experiences for consumers. </h1>
  
- [How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
- 
+<h2>How it works</h2>( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
+
  </div>
  <div class="two twoleft">
+ <div class="content">
+
+<h3> OpenActive open opportunity data </h3>
  
- #### OpenActive open opportunity data
- 
- ##### **Includes details such as:**
+<h2> **Includes details such as:** </h2>
  
  * ![Price tag icon]({{ site.baseurl }}/resources/images/icons/prices.svg) How much will it cost?
  
