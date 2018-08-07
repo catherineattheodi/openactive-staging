@@ -66,10 +66,11 @@ Stewarded by the Open Data Institute (ODI), we're a growing community of sport a
 
 From leisure operators to national governing bodies, local sports clubs to event providers, walking groups to fitness instructors, the ODI is helping organisations use opportunity data to build interesting products, tools and experiences for consumers.
 
-####[How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
-
 </div>
-<div class="two twoleft">
+
+<div class=“two twoleft”>
+
+####[How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
 
 #### OpenActive open opportunity data
 
