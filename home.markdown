@@ -116,9 +116,10 @@ Open data is data that anyone can access, use or share. Simple as that. When big
 <h2 class="sub-heading-two">Who are we?</h2>
 <div class="one">
 
-## The OpenActive Community
+<h3>The OpenActive Community</h3>
+<p class="reset-style">
 
-Our open-invitation community is dynamic and self-supporting, and we welcome you to join us.
+Our open-invitation community is dynamic and self-supporting, and we welcome you to join us. </p>
 
 </div>
 </article>
