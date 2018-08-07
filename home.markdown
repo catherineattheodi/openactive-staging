@@ -83,7 +83,7 @@ From leisure operators to national governing bodies, local sports clubs to event
  * ![Map marker icon]({{ site.baseurl }}/resources/images/icons/locations.svg)  Where is the class? 
  {:.icons}
  
- ##### **But not data like:**
+<h2> **But not data like:** </h2>
  
  * ![Graph trending upwards icon]({{ site.baseurl }}/resources/images/icons/attendance.svg)  Participation and attendance data
  
