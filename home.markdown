@@ -58,9 +58,9 @@ We are supporting innovation to help people get active.
 <article class="title-row what-we-do">
 <h2 class="sub-heading-two">What we do</h2>
 <div class="two twoleft">
-<div class=“content”>
 
-###Our goal is to make data on what, where and when physical activity sessions happen openly available.
+<p class="reset-style">
+Our goal is to make data on what, where and when physical activity sessions happen openly available.
 
 Stewarded by the Open Data Institute (ODI), we're a growing community of sport and physical activity organisations and individuals. We're working collaboratively as a sector to open up data about physical activity opportunities.
 
@@ -90,8 +90,6 @@ From leisure operators to national governing bodies, local sports clubs to event
 
 * ![Customer card icon]({{ site.baseurl }}/resources/images/icons/customer.svg)  Customer data
 {:.icons}
-
-
 
 </div>
 <i class="line-graphic">{% include line-graphic-side.svg %}</i>
