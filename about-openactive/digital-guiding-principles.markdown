@@ -14,9 +14,9 @@ is_secondary_navigation: true
 <div class="one">
 <h1>{{ page.title | escape }}</h1>
 
-These principles are intended to apply to everything that falls under the OpenActive digital banner, whether it’s the website, or standalone tools.
+## These principles are intended to apply to everything that falls under the OpenActive digital banner, whether it’s the website, or standalone tools.
 
-They should inform what we do, and act as something to validate decisions against.
+## They should inform what we do, and act as something to validate decisions against.
 
 </div>
 </article>
