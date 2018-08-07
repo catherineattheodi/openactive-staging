@@ -4,6 +4,16 @@ date: 2018-08-07 15:02:00 Z
 is_secondary_navigation: true
 ---
 
+{::options parse_block_html="true" /}
+
+<!--  ---------------->
+<!-- HERO BLOCK -->
+<!--  ---------------->
+<article markdown="0" class="hero--simple">
+<i class="line-graphic">{% include slim-line-graphic.svg %}</i>
+<div class="one">
+<h1>{{ page.title | escape }}</h1>
+
 ## These principles are intended to apply to everything that falls under the OpenActive digital banner, whether it’s the website, or standalone tools.
 
 ## They should inform what we do, and act as something to validate decisions against.
