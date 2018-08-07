@@ -1,7 +1,7 @@
 ---
 title: OpenActive Digital Guiding Principles
 date: 2018-08-07 15:02:00 Z
-is_secondary_navigation: true
+is_secondary_navigation: false
 ---
 
 {::options parse_block_html="true" /}
