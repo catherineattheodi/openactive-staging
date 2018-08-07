@@ -183,12 +183,9 @@ What's happening in the community, and how you can get involved!
 <h2 class="sub-heading-two">Start Ups</h2>
 <div class="one">
 
-{% assign subpage = site.pages | where: 'title', 'Accelerator' %}
-{% for item in subpage %}
-
-## {{ item.title}}
-
-{{ item.strapline | markdownify }}
+<h2> Accelerator </h2>
+<p class="reset-style">
+The OpenActive Accelerator is part of a groundbreaking open data initiative created to encourage digital innovation in the sport and physical activity sector. Join us and help revolutionise the industry
 
 [Find out more]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
 
