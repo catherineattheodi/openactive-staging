@@ -21,8 +21,7 @@ layout: home
  
  <div class="content">
  
- # Helping physical activity reach everyone 
- 
+ # Helping physical activity reach everyone
  
  We are supporting innovation to help people get active.
  
@@ -47,12 +46,13 @@ layout: home
  {% include case-study.html %}
  </article>
  
-<!--  ---------------->
-<!-- BOOKING SYSTEMS -->
-<!--  ---------------->
-{% include booking-systems-1-copy.html %}
  <!--  ---------------->
-<!-- WHAT WE DO -->
+ <!-- BOOKING SYSTEMS -->
+ <!--  ---------------->
+ {% include booking-systems.html %}
+ 
+ <!--  ---------------->
+ <!-- WHAT WE DO -->
  <!--  ---------------->
  <article class="title-row what-we-do">
  <h2 class="sub-heading-two">What we do</h2>
@@ -124,13 +124,13 @@ layout: home
  <article>
  <div class="one freegrid-six">
  {% assign posts = site.members | sample:18 %}
- {% for post in posts %}
- {% assign theImage = post.thumbnail_image %}
- <div class="mobile-hide-content" data-tab="{{ forloop.index }}" markdown="0" >
- <a href="{{ post.url | relative_url }}"><img role="logo" src="{{ theImage  | relative_url}}" alt="{{ post.title}}" /></a>
- </div>
- {% endfor %}
- </div>
+{% for post in posts %}
+{% assign theImage = post.thumbnail_image %}
+<div class="mobile-hide-content" data-tab="{{ forloop.index }}" markdown="0" >
+<a href="{{ post.url | relative_url }}"><img role="logo" src="{{ theImage  | relative_url}}" alt="{{ post.title}}" /></a>
+</div>
+{% endfor %}
+</div>
  <div class="one buttons">
  <a class="button-primary" href="{% link community.md %}">View all</a>
  <a class="button-primary--ghost mobile-show">View More</a>
