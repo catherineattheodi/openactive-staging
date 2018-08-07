@@ -70,11 +70,11 @@ From leisure operators to national governing bodies, local sports clubs to event
 
 <div class=“two twoleft”>
 
-####[How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
+[How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
 
-#### OpenActive open opportunity data
+<h3>OpenActive open opportunity data</h3>
 
-##### **Includes details such as:**
+<h2> **Includes details such as:**</h2>
 
 * ![Price tag icon]({{ site.baseurl }}/resources/images/icons/prices.svg) How much will it cost?
 
