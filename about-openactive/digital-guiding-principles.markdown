@@ -49,3 +49,8 @@ We should share what we can about our process and our outcomes, with a view to g
 ### Keep evolving
 
 User needs now won’t be the same in six months. We should create things that have the flexibility to evolve with us, and ensure that our processes and attitudes can support this too.
+
+<div class="line-graphic"></div>
+
+</div>
+</article>
