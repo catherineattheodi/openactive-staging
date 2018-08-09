@@ -9,12 +9,16 @@ layout: page-hero
 <article class="title-row">
 <h2 class="sub-heading-two"></h2>
 <div class="one">
-<!--  ---------------->
-<!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
-<!--  ---------------->
 
 <div class="mask"></div>
 <iframe id="video" title="OpenActive intro video" width="560" height="315"  src="https://www.youtube.com/embed/a2FdmspmCNk?showinfo=0&rel=0&enablejsapi=1" allowfullscreen ></iframe>
+
+<iframe id="video" title="OpenActive intro video" width="640" height="480" src="https://drive.google.com/file/d/1pI781Av9V0yHUucLbhLjcciZk4TKirmQ/preview" allowfullscreen ></iframe>
+
+
+<!--  ---------------->
+<!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
+<!--  ---------------->
 
 ## Welcome to the OpenActive community toolkit
 
