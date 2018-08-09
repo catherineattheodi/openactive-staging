@@ -11,8 +11,7 @@ layout: page-hero
 <div class="one">
 
 <div class="mask"></div>
-
-<iframe id="video" title="OpenActive intro video" width="560" height="315" src="https://drive.google.com/file/d/1pI781Av9V0yHUucLbhLjcciZk4TKirmQ/preview" allowfullscreen ></iframe>
+<iframe id="video" title="OpenActive intro video" width="560" height="315"  src="https://www.youtube.com/embed/a2FdmspmCNk?showinfo=0&rel=0&enablejsapi=1" allowfullscreen ></iframe>
 
 
 <!--  ---------------->
