@@ -11,9 +11,8 @@ layout: page-hero
 <div class="one">
 
 <div class="mask"></div>
-<iframe id="video" title="OpenActive intro video" width="560" height="315"  src="https://www.youtube.com/embed/a2FdmspmCNk?showinfo=0&rel=0&enablejsapi=1" allowfullscreen ></iframe>
 
-<iframe id="video" title="OpenActive intro video" width="640" height="480" src="https://drive.google.com/file/d/1pI781Av9V0yHUucLbhLjcciZk4TKirmQ/preview" allowfullscreen ></iframe>
+<iframe id="video" title="OpenActive intro video" width="560" height="315" src="https://drive.google.com/file/d/1pI781Av9V0yHUucLbhLjcciZk4TKirmQ/preview" allowfullscreen ></iframe>
 
 
 <!--  ---------------->
@@ -78,7 +77,7 @@ Take a look at all activity data available across the country
 
 [View map](https://philiphorgan.carto.com/builder/6ac0f185-8322-4b95-ae66-b55768390fa9/embed)
 
-![imin attribution - powered by (1)-808e04.png](/uploads/imin%20attribution%20-%20powered%20by%20(1)-808e04.png)
+![imin attribution - powered by (1)-34ff3c.png](/uploads/imin%20attribution%20-%20powered%20by%20(1)-34ff3c.png)
 
 ### OpenActive dashboard
 
