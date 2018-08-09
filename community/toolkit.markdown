@@ -9,11 +9,6 @@ layout: page-hero
 <article class="title-row">
 <h2 class="sub-heading-two"></h2>
 <div class="one">
-
-<div class="mask"></div>
-<iframe id="video" title="OpenActive intro video" width="560" height="315"  src="https://www.youtube.com/embed/a2FdmspmCNk?showinfo=0&rel=0&enablejsapi=1" allowfullscreen ></iframe>
-
-
 <!--  ---------------->
 <!-- YOUR CONTENT  GOES IN THIS CONTAINER -->
 <!--  ---------------->
@@ -28,7 +23,9 @@ If anything is missing,  get in touch and we'll add it to our toolkit developmen
 
 This document introduces the OpenActive initiative and how others can get involved
 
-[Access document](https://docs.google.com/document/d/1RmEJajN6lVB0LE8fRK18feEtYv0zpIyhO5jY_uZEJiw/edit?usp=sharing)
+[Access document](https://docs.google.com/document/d/1RmEJajN6lVB0LE8fRK18feEtYv0zpIyhO5jY_uZEJiw/edit?usp=sharing) 
+
+[Access video](https://www.youtube.com/embed/a2FdmspmCNk?showinfo=0&rel=0&enablejsapi=1)
 
 ### Brand guidelines
 
@@ -76,7 +73,7 @@ Take a look at all activity data available across the country
 
 [View map](https://philiphorgan.carto.com/builder/6ac0f185-8322-4b95-ae66-b55768390fa9/embed)
 
-![imin attribution - powered by (1)-34ff3c.png](/uploads/imin%20attribution%20-%20powered%20by%20(1)-34ff3c.png)
+![imin attribution - powered by (1)-808e04.png](/uploads/imin%20attribution%20-%20powered%20by%20(1)-808e04.png)
 
 ### OpenActive dashboard
 
