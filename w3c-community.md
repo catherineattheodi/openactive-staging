@@ -59,7 +59,7 @@ You can read more about the role of community groups on the [W3C website](https:
 
 ### Upcoming meetings
 
-*Agendas:*
+**Agendas:**
 
 15th August - booking feedback
 
