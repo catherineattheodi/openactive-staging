@@ -110,7 +110,7 @@ The specification defines a data model to help different platforms and applicati
 <h2 class="sub-heading-two">Data Tools</h2>
 <div class="two tworight">
 
-[Hero\]({{ site.baseurl }}/resources/images/icons/dash.svg)
+![Hero]({{ site.baseurl }}/resources/images/icons/dash.svg)
 
 </div>
 <div class="two tworight">
@@ -128,7 +128,7 @@ Explore the dashboard to find the data you need, identify which feeds conform to
 <article class="dashboard">
 <div class="two tworight">
 
-!\[Hero\]({{ site.baseurl }}/resources/images/icons/dash-map.svg)
+![Hero]({{ site.baseurl }}/resources/images/icons/dash.svg)
 
 </div>
 <div class="two tworight">
