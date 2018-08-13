@@ -34,6 +34,9 @@ collections:
   blogs:
     title: Posts
     output: true
+  posts:
+    title: Posts
+    output: true
   startups:
     title: Startups
     output: true
