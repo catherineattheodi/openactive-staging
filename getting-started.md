@@ -206,7 +206,7 @@ aria-labelledby="use-data">
 </div>
 <div>
 
-!\[Status dashboard and map icon\]({{ site.baseurl }}/resources/images/icons/tab3-step1.svg)
+![Status dashboard and map icon\]({{ site.baseurl }}/resources/images/icons/tab3-step1.svg)
 
 <div class="step-text">
 
@@ -215,8 +215,10 @@ aria-labelledby="use-data">
 Browse our status dashboard and map to understand the kinds of data available, and read our advocacy guidance to find out how to create more open data.
 
 [Status Dashboard](http://status.openactive.io/){:target="_blank"}{:class="button-secondary" }
+
 [Open data Map](https://philiphorgan.carto.com/builder/6ac0f185-8322-4b95-ae66-b55768390fa9/embed){:target="_blank"}{:class="button-secondary" }
-\[Advocacy Guidance\]( {{ site.baseurl }}{% link developer.md %}){:class="button-secondary" }
+
+[Advocacy Guidance]( {{ site.baseurl }}{% link developer.md %}){:class="button-secondary" }
 
 ![imin attribution - powered by (1)-66760e.png](/uploads/imin%20attribution%20-%20powered%20by%20(1)-66760e.png)
 
@@ -226,7 +228,7 @@ Browse our status dashboard and map to understand the kinds of data available, a
 <!--STEP TWO-->
 <div>
 
-!\[Browser, phone, watch icons\]({{ site.baseurl }}/resources/images/icons/tab3-step2.svg)
+![Browser, phone, watch icons\]({{ site.baseurl }}/resources/images/icons/tab3-step2.svg)
 
 <div class="step-text">
 
@@ -236,7 +238,7 @@ From websites and apps that attract millions of users, through to communities an
 
 If you already have a website that engages an audience, an app, or a tool, it's useful to include the data in the same place. You might want to build a whole new app, website, or service, depending on whether you're a long-term business or a short-term campaign.
 
-\[See Examples\]({{ site.baseurl }}{% link our-vision.md %}#examples-scroll){: .button-secondary}
+[See Examples]({{ site.baseurl }}{% link our-vision.md %}#examples-scroll){: .button-secondary}
 
 </div>
 
@@ -245,7 +247,7 @@ If you already have a website that engages an audience, an app, or a tool, it's 
 <!--STEP THREE-->
 <div>
 
-!\[Selection box icon\]({{ site.baseurl }}/resources/images/icons/tab3-step3.svg)
+![Selection box icon]({{ site.baseurl }}/resources/images/icons/tab3-step3.svg)
 
 <div class="step-text">
 
@@ -265,7 +267,7 @@ There are also data aggregators that provide one API to access all the data, and
 <!--STEP FOUR-->
 <div>
 
-!\[Speech bubble icons\]({{ site.baseurl }}/resources/images/icons/tab3-step4.svg)
+![Speech bubble icons]({{ site.baseurl }}/resources/images/icons/tab3-step4.svg)
 
 <div class="step-text">
 
@@ -275,8 +277,10 @@ Provide feedback on the data via GitHub or directly reach out to the activity pr
 
 Join the OpenActive community and use your local or commercial influence to get more data
 
-<!-- \[Feedback guidance\]( {{ site.baseurl }}{% link developer.md %}){:class="button-primary" } -->
-\[Join the community\]( {{ site.baseurl }}{% link community.md %}){:class="button-secondary" }
+<!-- [Feedback guidance]( {{ site.baseurl }}{% link developer.md %}){:class="button-primary" } -->
+
+[Join the community]( {{ site.baseurl }}{% link community.md %}){:class="button-secondary" }
+
 [Visit Active//choice](https://www.activechoice.org/){:target="_blank"}{: .button-secondary}
 
 </div>
@@ -345,7 +349,7 @@ If you think your organisation would benefit from open data, but the decision is
 
 Discover downloadable documents to give to your company.
 
-\[Convince Company\]( {{ site.baseurl }}{% link convince-company.md %}){: .button-primary}
+[Convince Company]( {{ site.baseurl }}{% link convince-company.md %}){: .button-primary}
 
 </div>
 <div class="three">
@@ -354,7 +358,7 @@ Discover downloadable documents to give to your company.
 
 Find resources designed to explain open data to your colleagues.
 
-\[Tell Team\]( {{ site.baseurl }}{% link tell-team.md %}){: .button-primary}
+[Tell Team]( {{ site.baseurl }}{% link tell-team.md %}){: .button-primary}
 
 </div>
 <div class="three">
@@ -385,7 +389,7 @@ Have a question? Get in touch.
 
 {{ item.strapline | markdownify }}
 
-\[Find out more\]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
+[Find out more]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
 
 </div>
 <figure>
