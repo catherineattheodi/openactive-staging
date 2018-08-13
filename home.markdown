@@ -21,12 +21,11 @@ layout: home
 
 <div class="content">
 
-# Helping physical activity reach everyone 
-
+# Helping physical activity reach everyone
 
 We are supporting innovation to help people get active.
 
-[Our Vision]( {{ site.baseurl }}{% link our-vision.md %}){: .button-primary--alt}
+\[Our Vision\]( {{ site.baseurl }}{% link our-vision.md %}){: .button-primary--alt}
 <button id="play-button" class="button-primary--alt">Watch Video</button>
 </div>
 <figure id="introduction-vid"  role="group" aria-labelledby="open-active-video">
@@ -50,7 +49,7 @@ We are supporting innovation to help people get active.
 <!--  ---------------->
 <!-- BOOKING SYSTEMS -->
 <!--  ---------------->
-{% include booking-systems-1-copy.html %}
+{% include booking-systems.html %}
 
 <!--  ---------------->
 <!-- WHAT WE DO -->
@@ -65,7 +64,7 @@ Stewarded by the Open Data Institute (ODI), we're a growing community of sport a
 
 From leisure operators to national governing bodies, local sports clubs to event providers, walking groups to fitness instructors, the ODI is helping organisations use opportunity data to build interesting products, tools and experiences for consumers.
 
-[How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
+\[How it works\]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} \[Get Started\]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
 
 </div>
 <div class="two twoleft">
@@ -74,23 +73,21 @@ From leisure operators to national governing bodies, local sports clubs to event
 
 ##### **Includes details such as:**
 
-* ![Price tag icon]({{ site.baseurl }}/resources/images/icons/prices.svg) How much will it cost?
+* !\[Price tag icon\]({{ site.baseurl }}/resources/images/icons/prices.svg) How much will it cost?
 
-* ![Calendar icon]({{ site.baseurl }}/resources/images/icons/availability.svg)  When is a court available?
+* !\[Calendar icon\]({{ site.baseurl }}/resources/images/icons/availability.svg)  When is a court available?
 
-* ![Map marker icon]({{ site.baseurl }}/resources/images/icons/locations.svg)  Where is the class? 
-{:.icons}
+* !\[Map marker icon\]({{ site.baseurl }}/resources/images/icons/locations.svg)  Where is the class?
+  {:.icons}
 
 ##### **But not data like:**
 
-* ![Graph trending upwards icon]({{ site.baseurl }}/resources/images/icons/attendance.svg)  Participation and attendance data
+* !\[Graph trending upwards icon\]({{ site.baseurl }}/resources/images/icons/attendance.svg)  Participation and attendance data
 
-* ![Eye crossed out icon]({{ site.baseurl }}/resources/images/icons/sensitive.svg)  Commercially sensitive data
+* !\[Eye crossed out icon\]({{ site.baseurl }}/resources/images/icons/sensitive.svg)  Commercially sensitive data
 
-* ![Customer card icon]({{ site.baseurl }}/resources/images/icons/customer.svg)  Customer data
-{:.icons}
-
-
+* !\[Customer card icon\]({{ site.baseurl }}/resources/images/icons/customer.svg)  Customer data
+  {:.icons}
 
 </div>
 <i class="line-graphic">{% include line-graphic-side.svg %}</i>
@@ -150,7 +147,7 @@ Our open-invitation community is dynamic and self-supporting, and we welcome you
 
 Take the first step and switch on open data publishing in your booking system.
 
-[Getting Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary}
+\[Getting Started\]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary}
 
 </div>
 <div class="three">
@@ -159,7 +156,7 @@ Take the first step and switch on open data publishing in your booking system.
 
 Get stuck into the docs and start using or publishing data today!
 
-[Developer]( {{ site.baseurl }}{% link developer.md %}){: .button-primary}
+\[Developer\]( {{ site.baseurl }}{% link developer.md %}){: .button-primary}
 
 </div>
 <div class="three">
@@ -168,7 +165,7 @@ Get stuck into the docs and start using or publishing data today!
 
 What's happening in the community, and how you can get involved!
 
-[Community]( {{ site.baseurl }}{% link community.md %}){: .button-primary}
+\[Community\]( {{ site.baseurl }}{% link community.md %}){: .button-primary}
 
 </div>
 </div>
@@ -189,7 +186,7 @@ What's happening in the community, and how you can get involved!
 
 {{ item.strapline | markdownify }}
 
-[Find out more]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
+\[Find out more\]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
 
 </div>
 <figure>
@@ -223,7 +220,7 @@ What's happening in the community, and how you can get involved!
 </div>
 <div class="two twoleft">
 <div markdown="0" class="share-page">
-<a role="button" href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" role="button" standalone="true" rel="nofollow" target="_blank" title="Share on Google+"><span class="hidden" aria-hidden="true">Share to  Google</span>{% include googleplus.svg %}</a>
+<a role="button" href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" role="button" standalone="true" rel="nofollow" target="_blank" title="Share on Google\+"><span class="hidden" aria-hidden="true">Share to  Google</span>{% include googleplus.svg %}</a>
 <a role="button" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" role="button" standalone="true" rel="nofollow" target="_blank" title="Share on Twitter"><span class="hidden" aria-hidden="true">Share to Twitter</span>{% include twitter.svg %}</a>
 <a role="button" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" role="button" standalone="true" rel="nofollow" target="_blank" title="Share on Facebook"><span class="hidden" aria-hidden="true">Share to  Facebook</span>{% include facebook.svg %}</a>
 
