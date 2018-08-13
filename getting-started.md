@@ -215,9 +215,9 @@ aria-labelledby="use-data">
 
 Browse our status dashboard and map to understand the kinds of data available, and read our advocacy guidance to find out how to create more open data.
 
-[Status Dashboard](http://status.openactive.io/){:target="_blank"}{:class="button-secondary" }
+The OpenActive team is currently working on a new open data map.
 
-[Open data Map](https://philiphorgan.carto.com/builder/6ac0f185-8322-4b95-ae66-b55768390fa9/embed){:target="_blank"}{:class="button-secondary" }
+[Status Dashboard](http://status.openactive.io/){:target="_blank"}{:class="button-secondary" }
 
 [Advocacy Guidance]( {{ site.baseurl }}{% link developer.md %}){:class="button-secondary" }
 
