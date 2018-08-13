@@ -177,7 +177,7 @@ What's happening in the community, and how you can get involved!
 
 {{ item.strapline | markdownify }}
 
-[Find out more\]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
+[Find out more]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
 
 </div>
 <figure>
