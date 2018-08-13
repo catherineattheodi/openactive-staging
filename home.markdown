@@ -25,7 +25,7 @@ layout: home
 
 We are supporting innovation to help people get active.
 
-\[Our Vision\]( {{ site.baseurl }}{% link our-vision.md %}){: .button-primary--alt}
+[Our Vision]( {{ site.baseurl }}{% link our-vision.md %}){: .button-primary--alt}
 <button id="play-button" class="button-primary--alt">Watch Video</button>
 </div>
 <figure id="introduction-vid"  role="group" aria-labelledby="open-active-video">
@@ -62,12 +62,14 @@ We are supporting innovation to help people get active.
 ### Our goal is to make data on what, where and when physical activity sessions happen openly available.
  Stewarded by the Open Data Institute (ODI), we're a growing community of sport and physical activity organisations and individuals. We're working collaboratively as a sector to open up data about physical activity opportunities.
  From leisure operators to national governing bodies, local sports clubs to event providers, walking groups to fitness instructors, the ODI is helping organisations use opportunity data to build interesting products, tools and experiences for consumers.
- [How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} [Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
+
+ [How it works]( {{ site.baseurl }}{% link how-it-works.md %}){: .button-primary} 
+[Get Started]( {{ site.baseurl }}{% link getting-started.md %}){: .button-primary--ghost}
  </div>
 
 <div class="two twoleft">
- #### OpenActive open opportunity data
- ##### **Includes details such as:**
+#### OpenActive open opportunity data
+##### **Includes details such as:**
  * ![Price tag icon]({{ site.baseurl }}/resources/images/icons/prices.svg) How much will it cost?
  * ![Calendar icon]({{ site.baseurl }}/resources/images/icons/availability.svg)  When is a court available?
  * ![Map marker icon]({{ site.baseurl }}/resources/images/icons/locations.svg)  Where is the class? 
@@ -174,7 +176,7 @@ What's happening in the community, and how you can get involved!
 
 {{ item.strapline | markdownify }}
 
-\[Find out more\]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
+[Find out more\]( {{ site.baseurl }}{{ item.permalink }}){: .button-primary}
 
 </div>
 <figure>
