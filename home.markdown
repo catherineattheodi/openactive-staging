@@ -74,7 +74,8 @@ We are supporting innovation to help people get active.
  * ![Calendar icon]({{ site.baseurl }}/resources/images/icons/availability.svg)  When is a court available?
  * ![Map marker icon]({{ site.baseurl }}/resources/images/icons/locations.svg)  Where is the class? 
 {:.icons}
- ##### **But not data like:**
+
+##### **But not data like:**
  * ![Graph trending upwards icon]({{ site.baseurl }}/resources/images/icons/attendance.svg)  Participation and attendance data
  * ![Eye crossed out icon]({{ site.baseurl }}/resources/images/icons/sensitive.svg)  Commercially sensitive data
  * ![Customer card icon]({{ site.baseurl }}/resources/images/icons/customer.svg)  Customer data
