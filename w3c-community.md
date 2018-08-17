@@ -59,12 +59,7 @@ You can read more about the role of community groups on the [W3C website](https:
 
 ### Upcoming meetings
 
-**Agendas:**
-
-15th August - booking feedback
-
-29th August - final feedback before booking 1.0 & modelling 1.2/2/0 releases
-
+To find out details of how to join one of our meetings and the agenda, please click "OpenActive Community Hangout" under your preferred date. 
 
 
 
