@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1561.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;footer&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;article&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="left-border"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;div&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">         </span>&lt;div class="wrapper"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;div class="intro"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;h4&gt;Some of our members&lt;/h4&gt;&amp;nbsp;&lt;a class="link" href="{{ site.baseurl }}{% link members-page.md %}"&gt;All</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>Members&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;div class="members"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;div class="subgrid"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                     </span>{% assign posts = site.members<span class="Apple-converted-space">  </span>| sample:6 %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% for post in posts %}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                     </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;div class="six-members" id="member-{{ forloop.index }}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>&lt;figure role="group"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>&lt;a href="{{ site.baseurl }}{% link members-page.md %}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                                </span>&lt;img role="logo" src="{{post.thumbnail_image | relative_url}}" alt="{{ post.title | escape }}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                                </span>&lt;span class="hidden" aria-hidden="true"&gt;{{ post.title | escape }}&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>&lt;/figure&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;/div&gt;</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                    </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">         </span>&lt;nav&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;ul class="nav-style" role="menubar"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% assign navigation_pages = site.html_pages | sort: 'position' %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% for p in navigation_pages %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if p.is_secondary_navigation %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if p.position %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;a role="menuitem" {% if p.url== page.url %}class="active" {% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                       </span>href="{{ p.url | relative_url }}" aria-label="Go to Page {{ p.title }}"&gt;{{ p.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;a role="menuitem" {% if p.url== page.url %}class="active" {% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                       </span>href="mailto:hello@openactive.io" aria-label="email hello@openactive.io"&gt;Contact&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;a role="menuitem" {% if p.url== page.url %}class="active" {% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                       </span>target="_blank" href="https://blog.openactive.io/" aria-label="view our blog"&gt;Blog&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;a role="menuitem" {% if p.url== page.url %}class="active" {% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                       </span>target="_blank" href="http://openactive.us13.list-manage1.com/subscribe?u=9e6648557f84731796a4ac873&amp;id=1665f95799" aria-label="sign up to newsletter"&gt;Newsletter&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/ul&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{% include social.html %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/nav&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="right-border"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;div class="supporters"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;h6&gt;Stewarded by: &lt;/h6&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="https://theodi.org/"target="_blank" rel="noopener"&gt;&lt;img<span class="Apple-converted-space">  </span>alt="ODI logo" src="{{ site.baseurl }}/resources/images/basic-72-K-80px.svg"/&gt;&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;div class="supporters"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="https://www.sportengland.org/" target="_blank" rel="noopener" &gt;&lt;img alt="Sport England Logo" src="{{ site.baseurl }}/resources/images/sport_england.svg"/&gt;&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/article&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/footer&gt;</span></p>
+</body>
+</html>
