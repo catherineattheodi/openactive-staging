@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1561.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p2 {margin: 0.0px 0.0px 15.9px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #0000ee; -webkit-text-stroke: #0000ee}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p6 {margin: 0.0px 0.0px 20.9px 0.0px; line-height: 10.0px; font: 9.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #0000ee; -webkit-text-stroke: #0000ee}
+    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+    span.s3 {text-decoration: underline ; font-kerning: none; color: #0000ee; -webkit-text-stroke: 0px #0000ee}
+    span.s4 {text-decoration: underline ; font-kerning: none}
+    span.s5 {-webkit-text-stroke: 0px #000000}
+    span.s6 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000ee}
+    span.s7 {color: #0000ee}
+    span.s8 {color: #000000}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"><b>Some of our members</b></span></p>
+<p class="p3"><span class="s2"> <a href="file:///Users/catherinejonan/Downloads/%7B%7B%20site.baseurl%20%7D%7D%7B%25%20link%20members-page.md%20%25%7D"><span class="s3">All Members</span></a><span class="Apple-converted-space"> </span></span></p>
+<p class="p4"><span class="s1">{% assign posts = site.members | sample:6 %} {% for post in posts %}</span></p>
+<p class="p3"><span class="s4"><a href="file:///Users/catherinejonan/Downloads/%7B%7B%20site.baseurl%20%7D%7D%7B%25%20link%20members-page.md%20%25%7D"><span class="Apple-converted-space"> </span>{{ post.title | escape }}<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p4"><span class="s1">{% endfor %}<span class="Apple-converted-space"> </span></span></p>
+<ul class="ul1">
+  <li class="li4"><span class="s1">{% assign navigation_pages = site.html_pages | sort: 'position' %} {% for p in navigation_pages %} {% if p.is_secondary_navigation %} {% if p.position %}</span></li>
+  <li class="li3"><span class="s5"><a href="file:///Users/catherinejonan/Downloads/%7B%7B%20p.url%20%7C%20relative_url%20%7D%7D"><span class="s6">{{ p.title }}</span></a></span><span class="s2"><span class="Apple-converted-space"> </span></span></li>
+  <li class="li4"><span class="s1">{% endif %} {% endif %} {% endfor %}</span></li>
+  <li class="li5"><span class="s7"><a href="https://blog.openactive.io/"><span class="s8">Blog</span></a></span></li>
+  <li class="li3"><span class="s5"><a href="mailto:hello@openactive.io"><span class="s6">Contact</span></a></span><span class="s2"><span class="Apple-converted-space"> </span></span></li>
+  <li class="li3"><span class="s5"><a href="http://openactive.us13.list-manage1.com/subscribe?u=9e6648557f84731796a4ac873&amp;id=1665f95799"><span class="s6">Newsletter</span></a></span><span class="s2"><span class="Apple-converted-space"> </span></span></li>
+  <li class="li4"><span class="s5"></span><span class="s1">{% include social.html %}<span class="Apple-converted-space"> </span></span></li>
+</ul>
+<p class="p6"><span class="s1"><b>Stewarded by:<span class="Apple-converted-space"> </span></b></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>
