@@ -10,7 +10,6 @@ Offering innovative and cutting-edge technology, we at Gladstone pride ourselves
 
 As the leading supplier of Leisure Management Software in the UK and Ireland, we are endorsed by leading health and fitness professionals and enterprise technology partners, with over 400 customers, 30,000 users relying on our software to manage membership, bookings, check-in, security, point of sale and business intelligence every day. Millions of members also benefit from our products by joining, booking and making payments online, via smartphones or through self-service kiosks twenty-four seven.
 
-
 Our aim is to deliver software that provides a complete multi-channel experience for the leisure industry, to maximise sales revenue and create operational efficiency for our customers.
 
 Gladstone has been working with OpenActive to enable our Leisure Management Platform to share and publish class and facility availability openly, to allow it to be used by providers like - Change4Life, Hoop, BBC Get Inspired, Ordnance Survey and others. 
