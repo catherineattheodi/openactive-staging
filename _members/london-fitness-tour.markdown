@@ -1,7 +1,7 @@
 ---
 title: London Fitness Tour
 date: 2018-08-29 11:16:00 Z
-is_featured: true
+is_featured: false
 thumbnail_image: "/uploads/LFT%20eLtF%20Square%20Logo%20-%20JPG%20%23%20Official%20ALLINEATO%20e%20RASTERIZZATO.png"
 bookingsystem: Other
 website: https://www.londonfitnesstour.com
