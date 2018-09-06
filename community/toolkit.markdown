@@ -58,6 +58,12 @@ Take a look at the most frequently asked questions and how to answer them
 
 [Read our FAQs](http://openactive.io/faqs.html)
 
+### Delivering OpenActive as part of your contract
+
+This document shows the requirements for meeting your client’s contractual expectations for delivering on OpenActive
+
+[Access document](https://docs.google.com/document/d/1jThOY_Ryj8FNztySqI_4sdHO8Hz2GHxs8qsXdooV8A0/edit#heading=h.bvhkznw9lj0)
+
 ### Resources for OpenActive Champions
 
 This document includes materials for the OpenActive Champions to support their engagement activities
