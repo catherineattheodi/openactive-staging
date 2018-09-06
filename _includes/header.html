@@ -35,8 +35,6 @@
             <li {% if p.url== page.url %}class="active" {% endif %}>
                 <a role="menuitem"
                    href="{{ p.url | relative_url }}" aria-label="Go to Page {{ p.title }}">{{ p.title }}</a>
-                <a role="menuitem"
-                   href="https://blog.openactive.io/" aria-label="view our blog">Blog</a>
             </li>
             {% endif %}
             {% endif %}
