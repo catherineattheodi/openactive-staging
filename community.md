@@ -3,7 +3,7 @@ title: Community
 permalink: "/community/"
 position: 5
 is_main_navigation: true
-thumbnail_image: "/uploads/iStock-501777666_optimised.png"
+thumbnail_image: "/uploads/action-adults-adventure-248547.jpg"
 strapline: Innovation through Collaboration
 layout: page-hero
 ---
