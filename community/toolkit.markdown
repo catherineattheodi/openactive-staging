@@ -78,7 +78,7 @@ This document includes materials for the OpenActive Champions to support their e
 
 Take a look at all activity data available across the country
 
-The OpenActive team is currently working on a new open data map. We'll update this as soon as its available! 
+The OpenActive team is currently working on a new open data map. We'll update this as soon as its available!
 
 [View map](https://philiphorgan.carto.com/builder/6ac0f185-8322-4b95-ae66-b55768390fa9/embed)
 
