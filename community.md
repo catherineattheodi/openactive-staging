@@ -38,7 +38,7 @@ Explore the dashboard to learn more about our community and the datasets already
 <div class="four">
 <figure>
 <div class="wrap">
-<div class="odometer com-members">0</div>
+<div class="odometer com-members">93</div>
 </div>
 <figcaption>Community members </figcaption>
 </figure>
